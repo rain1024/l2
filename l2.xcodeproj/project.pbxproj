@@ -14,6 +14,20 @@
 		378F64942A10ADA0007FBDD4 /* l2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64932A10ADA0007FBDD4 /* l2Tests.swift */; };
 		378F649E2A10ADA0007FBDD4 /* l2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F649D2A10ADA0007FBDD4 /* l2UITests.swift */; };
 		378F64A02A10ADA0007FBDD4 /* l2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F649F2A10ADA0007FBDD4 /* l2UITestsLaunchTests.swift */; };
+		378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64AD2A12795B007FBDD4 /* ViewVocab.swift */; };
+		378F64B02A12796A007FBDD4 /* ViewB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64AF2A12796A007FBDD4 /* ViewB.swift */; };
+		378F64B22A127986007FBDD4 /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64B12A127986007FBDD4 /* Library.swift */; };
+		378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B42A185B07007FBDD4 /* xin chào.mp3 */; };
+		378F64BF2A185E08007FBDD4 /* cảm ơn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */; };
+		378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B72A185E08007FBDD4 /* đúng.mp3 */; };
+		378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B82A185E08007FBDD4 /* tốt.mp3 */; };
+		378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B92A185E08007FBDD4 /* sai.mp3 */; };
+		378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BA2A185E08007FBDD4 /* buồn.mp3 */; };
+		378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BB2A185E08007FBDD4 /* vui.mp3 */; };
+		378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BC2A185E08007FBDD4 /* xấu.mp3 */; };
+		378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BD2A185E08007FBDD4 /* không có gì.mp3 */; };
+		378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */; };
+		378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64C82A18DB65007FBDD4 /* ModelData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +58,20 @@
 		378F64992A10ADA0007FBDD4 /* l2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = l2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		378F649D2A10ADA0007FBDD4 /* l2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = l2UITests.swift; sourceTree = "<group>"; };
 		378F649F2A10ADA0007FBDD4 /* l2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = l2UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		378F64AD2A12795B007FBDD4 /* ViewVocab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewVocab.swift; sourceTree = "<group>"; };
+		378F64AF2A12796A007FBDD4 /* ViewB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewB.swift; sourceTree = "<group>"; };
+		378F64B12A127986007FBDD4 /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
+		378F64B42A185B07007FBDD4 /* xin chào.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xin chào.mp3"; sourceTree = "<group>"; };
+		378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cảm ơn.mp3"; sourceTree = "<group>"; };
+		378F64B72A185E08007FBDD4 /* đúng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "đúng.mp3"; sourceTree = "<group>"; };
+		378F64B82A185E08007FBDD4 /* tốt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tốt.mp3"; sourceTree = "<group>"; };
+		378F64B92A185E08007FBDD4 /* sai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sai.mp3; sourceTree = "<group>"; };
+		378F64BA2A185E08007FBDD4 /* buồn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "buồn.mp3"; sourceTree = "<group>"; };
+		378F64BB2A185E08007FBDD4 /* vui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vui.mp3; sourceTree = "<group>"; };
+		378F64BC2A185E08007FBDD4 /* xấu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xấu.mp3"; sourceTree = "<group>"; };
+		378F64BD2A185E08007FBDD4 /* không có gì.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "không có gì.mp3"; sourceTree = "<group>"; };
+		378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tạm biệt.mp3"; sourceTree = "<group>"; };
+		378F64C82A18DB65007FBDD4 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,10 +122,13 @@
 		378F64812A10AD9F007FBDD4 /* l2 */ = {
 			isa = PBXGroup;
 			children = (
+				378F64B32A185AC5007FBDD4 /* Sounds */,
+				378F64AC2A12792E007FBDD4 /* Views */,
 				378F64822A10AD9F007FBDD4 /* l2App.swift */,
 				378F64842A10AD9F007FBDD4 /* ContentView.swift */,
 				378F64862A10ADA0007FBDD4 /* Assets.xcassets */,
 				378F64882A10ADA0007FBDD4 /* Preview Content */,
+				378F64C82A18DB65007FBDD4 /* ModelData.swift */,
 			);
 			path = l2;
 			sourceTree = "<group>";
@@ -125,6 +156,33 @@
 				378F649F2A10ADA0007FBDD4 /* l2UITestsLaunchTests.swift */,
 			);
 			path = l2UITests;
+			sourceTree = "<group>";
+		};
+		378F64AC2A12792E007FBDD4 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				378F64AD2A12795B007FBDD4 /* ViewVocab.swift */,
+				378F64AF2A12796A007FBDD4 /* ViewB.swift */,
+				378F64B12A127986007FBDD4 /* Library.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		378F64B32A185AC5007FBDD4 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				378F64BA2A185E08007FBDD4 /* buồn.mp3 */,
+				378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */,
+				378F64B72A185E08007FBDD4 /* đúng.mp3 */,
+				378F64BD2A185E08007FBDD4 /* không có gì.mp3 */,
+				378F64B92A185E08007FBDD4 /* sai.mp3 */,
+				378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */,
+				378F64B82A185E08007FBDD4 /* tốt.mp3 */,
+				378F64BB2A185E08007FBDD4 /* vui.mp3 */,
+				378F64BC2A185E08007FBDD4 /* xấu.mp3 */,
+				378F64B42A185B07007FBDD4 /* xin chào.mp3 */,
+			);
+			path = Sounds;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -231,8 +289,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */,
+				378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */,
+				378F64BF2A185E08007FBDD4 /* cảm ơn.mp3 in Resources */,
+				378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */,
+				378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */,
+				378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */,
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
+				378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */,
+				378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */,
 				378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */,
+				378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */,
+				378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +326,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */,
+				378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */,
+				378F64B22A127986007FBDD4 /* Library.swift in Sources */,
 				378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */,
+				378F64B02A12796A007FBDD4 /* ViewB.swift in Sources */,
+				378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
