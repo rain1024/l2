@@ -53,9 +53,14 @@ struct ViewVocab: View {
                             playSound(sound: word, type: "mp3")
                         }) {
                             Image(systemName: "speaker.wave.2.circle")
-                        }
+                        } .buttonStyle(BorderlessButtonStyle())
                         Spacer()
-                        Image(systemName: "chevron.right")
+                        NavigationLink {
+                            Word()
+                        } label: {
+                            Text("")
+                        }
+                        
                     }
                     .padding(3)
                 }

@@ -10,10 +10,14 @@ import SwiftUI
 struct Library: View {
     var body: some View {
         NavigationView {
-            List {
-                Text("Chú cuội")
-                Text("Quê hương")
-                Text("Học đếm")
+            List(stories, id: \.title) { story in
+                NavigationLink {
+                    StoryDetail(story: story)
+                } label:  {
+                    HStack {
+                        Text(story.title)
+                    }
+                }
             }
             .navigationTitle("Library")
         }   

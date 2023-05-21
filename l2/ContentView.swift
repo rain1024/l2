@@ -21,10 +21,15 @@ struct ContentView: View {
                     Image(systemName: "square.stack.3d.up.badge.a.fill")
                     Text("Vocabulary")
                 }
-            ViewB()
+//            ViewB()
+//                .tabItem(){
+//                    Image(systemName: "plus.circle")
+//                    Text("Add")
+//                }
+            Settings()
                 .tabItem(){
-                    Image(systemName: "plus.circle")
-                    Text("Add")
+                    Image(systemName: "gearshape.fill")
+                    Text("Settings")
                 }
             
         }

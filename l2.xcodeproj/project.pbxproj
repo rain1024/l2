@@ -28,6 +28,11 @@
 		378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BD2A185E08007FBDD4 /* không có gì.mp3 */; };
 		378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */; };
 		378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64C82A18DB65007FBDD4 /* ModelData.swift */; };
+		378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64CA2A18DDDD007FBDD4 /* stories.json */; };
+		378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CC2A18DF9D007FBDD4 /* Story.swift */; };
+		378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */; };
+		378F64D12A18F311007FBDD4 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D02A18F311007FBDD4 /* Word.swift */; };
+		378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D22A18F8F5007FBDD4 /* Settings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +77,11 @@
 		378F64BD2A185E08007FBDD4 /* không có gì.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "không có gì.mp3"; sourceTree = "<group>"; };
 		378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tạm biệt.mp3"; sourceTree = "<group>"; };
 		378F64C82A18DB65007FBDD4 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		378F64CA2A18DDDD007FBDD4 /* stories.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stories.json; sourceTree = "<group>"; };
+		378F64CC2A18DF9D007FBDD4 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
+		378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetail.swift; sourceTree = "<group>"; };
+		378F64D02A18F311007FBDD4 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		378F64D22A18F8F5007FBDD4 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +132,8 @@
 		378F64812A10AD9F007FBDD4 /* l2 */ = {
 			isa = PBXGroup;
 			children = (
+				378F64CC2A18DF9D007FBDD4 /* Story.swift */,
+				378F64CA2A18DDDD007FBDD4 /* stories.json */,
 				378F64B32A185AC5007FBDD4 /* Sounds */,
 				378F64AC2A12792E007FBDD4 /* Views */,
 				378F64822A10AD9F007FBDD4 /* l2App.swift */,
@@ -164,6 +176,9 @@
 				378F64AD2A12795B007FBDD4 /* ViewVocab.swift */,
 				378F64AF2A12796A007FBDD4 /* ViewB.swift */,
 				378F64B12A127986007FBDD4 /* Library.swift */,
+				378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */,
+				378F64D02A18F311007FBDD4 /* Word.swift */,
+				378F64D22A18F8F5007FBDD4 /* Settings.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -295,6 +310,7 @@
 				378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */,
 				378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */,
 				378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */,
+				378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */,
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
 				378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */,
 				378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */,
@@ -325,7 +341,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */,
+				378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */,
+				378F64D12A18F311007FBDD4 /* Word.swift in Sources */,
 				378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */,
+				378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */,
 				378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */,
 				378F64B22A127986007FBDD4 /* Library.swift in Sources */,
 				378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */,
