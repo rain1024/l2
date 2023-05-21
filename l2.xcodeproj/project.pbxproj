@@ -33,6 +33,7 @@
 		378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */; };
 		378F64D12A18F311007FBDD4 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D02A18F311007FBDD4 /* Word.swift */; };
 		378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D22A18F8F5007FBDD4 /* Settings.swift */; };
+		378F64D52A19A2B7007FBDD4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 378F64D42A19A2B7007FBDD4 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -82,6 +83,7 @@
 		378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetail.swift; sourceTree = "<group>"; };
 		378F64D02A18F311007FBDD4 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
 		378F64D22A18F8F5007FBDD4 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
+		378F64D42A19A2B7007FBDD4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 		378F64762A10AD9F007FBDD4 = {
 			isa = PBXGroup;
 			children = (
+				378F64D42A19A2B7007FBDD4 /* README.md */,
 				378F64812A10AD9F007FBDD4 /* l2 */,
 				378F64922A10ADA0007FBDD4 /* l2Tests */,
 				378F649C2A10ADA0007FBDD4 /* l2UITests */,
@@ -314,6 +317,7 @@
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
 				378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */,
 				378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */,
+				378F64D52A19A2B7007FBDD4 /* README.md in Resources */,
 				378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */,
 				378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */,
 				378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */,
