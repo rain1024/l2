@@ -8,19 +8,27 @@
 import SwiftUI
 
 struct Library: View {
+    
+    @State var tabBarVisibility: Visibility = .visible
+    
     var body: some View {
-        NavigationView {
-            List(stories, id: \.title) { story in
-                NavigationLink {
-                    StoryDetail(story: story)
-                } label:  {
-                    HStack {
-                        Text(story.title)
+        ZStack {
+            NavigationView {
+                List(stories, id: \.title) { story in
+                    NavigationLink {
+                        StoryDetail(story: story, parentView: self)
+                    } label:  {
+                        HStack {
+                            Text(story.title)
+                        }
                     }
                 }
+                .navigationTitle("Library")
             }
-            .navigationTitle("Library")
-        }   
+        }.toolbar(tabBarVisibility, for: .tabBar)
+            .onAppear(){
+                print(vocab1)
+            }
     }
 }
 

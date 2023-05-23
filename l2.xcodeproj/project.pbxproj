@@ -31,9 +31,36 @@
 		378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64CA2A18DDDD007FBDD4 /* stories.json */; };
 		378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CC2A18DF9D007FBDD4 /* Story.swift */; };
 		378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */; };
-		378F64D12A18F311007FBDD4 /* Word.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D02A18F311007FBDD4 /* Word.swift */; };
+		378F64D12A18F311007FBDD4 /* ViewVocabDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D02A18F311007FBDD4 /* ViewVocabDetail.swift */; };
 		378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D22A18F8F5007FBDD4 /* Settings.swift */; };
 		378F64D52A19A2B7007FBDD4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 378F64D42A19A2B7007FBDD4 /* README.md */; };
+		378F64D72A19AD71007FBDD4 /* vocabs.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64D62A19AD71007FBDD4 /* vocabs.json */; };
+		378F64D92A19ADC9007FBDD4 /* Vocab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D82A19ADC9007FBDD4 /* Vocab.swift */; };
+		378F64DD2A19B186007FBDD4 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64DC2A19B186007FBDD4 /* Language.swift */; };
+		378F64E32A19B32F007FBDD4 /* languages.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E22A19B32F007FBDD4 /* languages.json */; };
+		378F64EC2A19C486007FBDD4 /* excuse me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E42A19C486007FBDD4 /* excuse me.mp3 */; };
+		378F64ED2A19C486007FBDD4 /* thank you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E52A19C486007FBDD4 /* thank you.mp3 */; };
+		378F64EE2A19C486007FBDD4 /* sorry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E62A19C486007FBDD4 /* sorry.mp3 */; };
+		378F64EF2A19C486007FBDD4 /* please.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E72A19C486007FBDD4 /* please.mp3 */; };
+		378F64F02A19C486007FBDD4 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E82A19C486007FBDD4 /* no.mp3 */; };
+		378F64F12A19C486007FBDD4 /* goodbye.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E92A19C486007FBDD4 /* goodbye.mp3 */; };
+		378F64F22A19C486007FBDD4 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64EA2A19C486007FBDD4 /* yes.mp3 */; };
+		378F64F32A19C486007FBDD4 /* hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64EB2A19C486007FBDD4 /* hello.mp3 */; };
+		378F64FE2A19C600007FBDD4 /* merci.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F42A19C600007FBDD4 /* merci.mp3 */; };
+		378F64FF2A19C600007FBDD4 /* moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F52A19C600007FBDD4 /* moi.mp3 */; };
+		378F65002A19C600007FBDD4 /* oui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F62A19C600007FBDD4 /* oui.mp3 */; };
+		378F65012A19C600007FBDD4 /* au revoir.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F72A19C600007FBDD4 /* au revoir.mp3 */; };
+		378F65022A19C600007FBDD4 /* non.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F82A19C600007FBDD4 /* non.mp3 */; };
+		378F65032A19C600007FBDD4 /* comment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F92A19C600007FBDD4 /* comment.mp3 */; };
+		378F65042A19C600007FBDD4 /* parlez-vous.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */; };
+		378F65052A19C600007FBDD4 /* s'il vous plaît.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */; };
+		378F65062A19C600007FBDD4 /* bonjour.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FC2A19C600007FBDD4 /* bonjour.mp3 */; };
+		378F65072A19C600007FBDD4 /* excusez-moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */; };
+		378F65092A19D0AC007FBDD4 /* je t'aime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */; };
+		378F650B2A1A222C007FBDD4 /* chicken-little.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */; };
+		378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */; };
+		37C365BF2A1BCA5300C162C3 /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 37C365BE2A1BCA5300C162C3 /* SQLite */; };
+		37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,9 +108,36 @@
 		378F64CA2A18DDDD007FBDD4 /* stories.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stories.json; sourceTree = "<group>"; };
 		378F64CC2A18DF9D007FBDD4 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
 		378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryDetail.swift; sourceTree = "<group>"; };
-		378F64D02A18F311007FBDD4 /* Word.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Word.swift; sourceTree = "<group>"; };
+		378F64D02A18F311007FBDD4 /* ViewVocabDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewVocabDetail.swift; sourceTree = "<group>"; };
 		378F64D22A18F8F5007FBDD4 /* Settings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Settings.swift; sourceTree = "<group>"; };
 		378F64D42A19A2B7007FBDD4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		378F64D62A19AD71007FBDD4 /* vocabs.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vocabs.json; sourceTree = "<group>"; };
+		378F64D82A19ADC9007FBDD4 /* Vocab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocab.swift; sourceTree = "<group>"; };
+		378F64DC2A19B186007FBDD4 /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
+		378F64E22A19B32F007FBDD4 /* languages.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = languages.json; sourceTree = "<group>"; };
+		378F64E42A19C486007FBDD4 /* excuse me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excuse me.mp3"; sourceTree = "<group>"; };
+		378F64E52A19C486007FBDD4 /* thank you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "thank you.mp3"; sourceTree = "<group>"; };
+		378F64E62A19C486007FBDD4 /* sorry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sorry.mp3; sourceTree = "<group>"; };
+		378F64E72A19C486007FBDD4 /* please.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = please.mp3; sourceTree = "<group>"; };
+		378F64E82A19C486007FBDD4 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
+		378F64E92A19C486007FBDD4 /* goodbye.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = goodbye.mp3; sourceTree = "<group>"; };
+		378F64EA2A19C486007FBDD4 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yes.mp3; sourceTree = "<group>"; };
+		378F64EB2A19C486007FBDD4 /* hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hello.mp3; sourceTree = "<group>"; };
+		378F64F42A19C600007FBDD4 /* merci.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = merci.mp3; sourceTree = "<group>"; };
+		378F64F52A19C600007FBDD4 /* moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moi.mp3; sourceTree = "<group>"; };
+		378F64F62A19C600007FBDD4 /* oui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oui.mp3; sourceTree = "<group>"; };
+		378F64F72A19C600007FBDD4 /* au revoir.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "au revoir.mp3"; sourceTree = "<group>"; };
+		378F64F82A19C600007FBDD4 /* non.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = non.mp3; sourceTree = "<group>"; };
+		378F64F92A19C600007FBDD4 /* comment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comment.mp3; sourceTree = "<group>"; };
+		378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "parlez-vous.mp3"; sourceTree = "<group>"; };
+		378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "s'il vous plaît.mp3"; sourceTree = "<group>"; };
+		378F64FC2A19C600007FBDD4 /* bonjour.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bonjour.mp3; sourceTree = "<group>"; };
+		378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excusez-moi.mp3"; sourceTree = "<group>"; };
+		378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "je t'aime.mp3"; sourceTree = "<group>"; };
+		378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "chicken-little.mp3"; sourceTree = "<group>"; };
+		378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryPlayer.swift; sourceTree = "<group>"; };
+		37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite3; sourceTree = "<group>"; };
+		37C365C12A1C49E800C162C3 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -91,6 +145,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37C365BF2A1BCA5300C162C3 /* SQLite in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,8 +190,8 @@
 		378F64812A10AD9F007FBDD4 /* l2 */ = {
 			isa = PBXGroup;
 			children = (
-				378F64CC2A18DF9D007FBDD4 /* Story.swift */,
-				378F64CA2A18DDDD007FBDD4 /* stories.json */,
+				378F64DB2A19AFC2007FBDD4 /* Model */,
+				378F64DA2A19AFA6007FBDD4 /* Data */,
 				378F64B32A185AC5007FBDD4 /* Sounds */,
 				378F64AC2A12792E007FBDD4 /* Views */,
 				378F64822A10AD9F007FBDD4 /* l2App.swift */,
@@ -177,11 +232,12 @@
 			isa = PBXGroup;
 			children = (
 				378F64AD2A12795B007FBDD4 /* ViewVocab.swift */,
+				378F64D02A18F311007FBDD4 /* ViewVocabDetail.swift */,
 				378F64AF2A12796A007FBDD4 /* ViewB.swift */,
 				378F64B12A127986007FBDD4 /* Library.swift */,
 				378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */,
-				378F64D02A18F311007FBDD4 /* Word.swift */,
 				378F64D22A18F8F5007FBDD4 /* Settings.swift */,
+				378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -189,6 +245,26 @@
 		378F64B32A185AC5007FBDD4 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */,
+				378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */,
+				378F64F72A19C600007FBDD4 /* au revoir.mp3 */,
+				378F64FC2A19C600007FBDD4 /* bonjour.mp3 */,
+				378F64F92A19C600007FBDD4 /* comment.mp3 */,
+				378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */,
+				378F64F42A19C600007FBDD4 /* merci.mp3 */,
+				378F64F52A19C600007FBDD4 /* moi.mp3 */,
+				378F64F82A19C600007FBDD4 /* non.mp3 */,
+				378F64F62A19C600007FBDD4 /* oui.mp3 */,
+				378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */,
+				378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */,
+				378F64E42A19C486007FBDD4 /* excuse me.mp3 */,
+				378F64E92A19C486007FBDD4 /* goodbye.mp3 */,
+				378F64EB2A19C486007FBDD4 /* hello.mp3 */,
+				378F64E82A19C486007FBDD4 /* no.mp3 */,
+				378F64E72A19C486007FBDD4 /* please.mp3 */,
+				378F64E62A19C486007FBDD4 /* sorry.mp3 */,
+				378F64E52A19C486007FBDD4 /* thank you.mp3 */,
+				378F64EA2A19C486007FBDD4 /* yes.mp3 */,
 				378F64BA2A185E08007FBDD4 /* buồn.mp3 */,
 				378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */,
 				378F64B72A185E08007FBDD4 /* đúng.mp3 */,
@@ -201,6 +277,28 @@
 				378F64B42A185B07007FBDD4 /* xin chào.mp3 */,
 			);
 			path = Sounds;
+			sourceTree = "<group>";
+		};
+		378F64DA2A19AFA6007FBDD4 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */,
+				378F64D62A19AD71007FBDD4 /* vocabs.json */,
+				378F64CA2A18DDDD007FBDD4 /* stories.json */,
+				378F64E22A19B32F007FBDD4 /* languages.json */,
+				37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		378F64DB2A19AFC2007FBDD4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				378F64CC2A18DF9D007FBDD4 /* Story.swift */,
+				378F64D82A19ADC9007FBDD4 /* Vocab.swift */,
+				378F64DC2A19B186007FBDD4 /* Language.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -219,6 +317,9 @@
 			dependencies = (
 			);
 			name = l2;
+			packageProductDependencies = (
+				37C365BE2A1BCA5300C162C3 /* SQLite */,
+			);
 			productName = l2;
 			productReference = 378F647F2A10AD9F007FBDD4 /* l2.app */;
 			productType = "com.apple.product-type.application";
@@ -291,6 +392,9 @@
 				Base,
 			);
 			mainGroup = 378F64762A10AD9F007FBDD4;
+			packageReferences = (
+				37C365BD2A1BCA5300C162C3 /* XCRemoteSwiftPackageReference "SQLite" */,
+			);
 			productRefGroup = 378F64802A10AD9F007FBDD4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -307,20 +411,42 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				378F64FF2A19C600007FBDD4 /* moi.mp3 in Resources */,
+				378F64F02A19C486007FBDD4 /* no.mp3 in Resources */,
 				378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */,
+				378F64F22A19C486007FBDD4 /* yes.mp3 in Resources */,
 				378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */,
 				378F64BF2A185E08007FBDD4 /* cảm ơn.mp3 in Resources */,
+				378F650B2A1A222C007FBDD4 /* chicken-little.mp3 in Resources */,
+				378F64EC2A19C486007FBDD4 /* excuse me.mp3 in Resources */,
+				378F65062A19C600007FBDD4 /* bonjour.mp3 in Resources */,
+				378F65072A19C600007FBDD4 /* excusez-moi.mp3 in Resources */,
+				378F65092A19D0AC007FBDD4 /* je t'aime.mp3 in Resources */,
 				378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */,
+				378F65022A19C600007FBDD4 /* non.mp3 in Resources */,
 				378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */,
+				378F65052A19C600007FBDD4 /* s'il vous plaît.mp3 in Resources */,
+				378F64EF2A19C486007FBDD4 /* please.mp3 in Resources */,
+				378F64F12A19C486007FBDD4 /* goodbye.mp3 in Resources */,
+				378F64EE2A19C486007FBDD4 /* sorry.mp3 in Resources */,
+				378F65012A19C600007FBDD4 /* au revoir.mp3 in Resources */,
 				378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */,
 				378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */,
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
 				378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */,
+				378F64D72A19AD71007FBDD4 /* vocabs.json in Resources */,
 				378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */,
 				378F64D52A19A2B7007FBDD4 /* README.md in Resources */,
 				378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */,
+				378F65042A19C600007FBDD4 /* parlez-vous.mp3 in Resources */,
+				378F65032A19C600007FBDD4 /* comment.mp3 in Resources */,
+				378F64F32A19C486007FBDD4 /* hello.mp3 in Resources */,
+				378F64ED2A19C486007FBDD4 /* thank you.mp3 in Resources */,
+				378F64E32A19B32F007FBDD4 /* languages.json in Resources */,
 				378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */,
+				378F65002A19C600007FBDD4 /* oui.mp3 in Resources */,
 				378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */,
+				378F64FE2A19C600007FBDD4 /* merci.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -347,12 +473,16 @@
 			files = (
 				378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */,
 				378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */,
-				378F64D12A18F311007FBDD4 /* Word.swift in Sources */,
+				378F64D12A18F311007FBDD4 /* ViewVocabDetail.swift in Sources */,
+				37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */,
 				378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */,
 				378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */,
 				378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */,
+				378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */,
+				378F64D92A19ADC9007FBDD4 /* Vocab.swift in Sources */,
 				378F64B22A127986007FBDD4 /* Library.swift in Sources */,
 				378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */,
+				378F64DD2A19B186007FBDD4 /* Language.swift in Sources */,
 				378F64B02A12796A007FBDD4 /* ViewB.swift in Sources */,
 				378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */,
 			);
@@ -679,6 +809,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		37C365BD2A1BCA5300C162C3 /* XCRemoteSwiftPackageReference "SQLite" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/stephencelis/SQLite.swift";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.14.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		37C365BE2A1BCA5300C162C3 /* SQLite */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 37C365BD2A1BCA5300C162C3 /* XCRemoteSwiftPackageReference "SQLite" */;
+			productName = SQLite;
+		};
+/* End XCSwiftPackageProductDependency section */
+
+/* Begin XCVersionGroup section */
+		37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				37C365C12A1C49E800C162C3 /* Model.xcdatamodel */,
+			);
+			currentVersion = 37C365C12A1C49E800C162C3 /* Model.xcdatamodel */;
+			path = Model.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 378F64772A10AD9F007FBDD4 /* Project object */;
 }

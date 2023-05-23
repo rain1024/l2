@@ -1,0 +1,130 @@
+[
+    {
+        "text": "xin chào",
+        "lang": "vi",
+        "description": "chào hỏi trang trọng"
+    },
+    {
+        "text": "tạm biệt",
+        "lang": "vi"
+    },
+    {
+        "text": "cảm ơn",
+        "lang": "vi"
+    },
+    {
+        "text": "không có gì",
+        "lang": "vi"
+    },
+    {
+        "text": "vui",
+        "lang": "vi"
+    },
+    {
+        "text": "buồn",
+        "lang": "vi"
+    },
+    {
+        "text": "đúng",
+        "lang": "vi"
+    },
+    {
+        "text": "sai",
+        "lang": "vi"
+    },
+    {
+        "text": "tốt",
+        "lang": "vi"
+    },
+    {
+        "text": "xấu",
+        "lang": "vi"
+    },
+    {
+        "text": "hello",
+        "lang": "en"
+    },
+    {
+        "text": "goodbye",
+        "lang": "en"
+    },
+    {
+        "text": "please",
+        "lang": "en"
+    },
+    {
+        "text": "thank you",
+        "lang": "en"
+    },
+    {
+        "text": "yes",
+        "lang": "en"
+    },
+    {
+        "text": "no",
+        "lang": "en"
+    },
+    {
+        "text": "excuse me",
+        "lang": "en"
+    },
+    {
+        "text": "sorry",
+        "lang": "en"
+    },
+    {
+        "text": "bonjour",
+        "lang": "fr",
+        "description": "hello"
+    },
+    {
+        "text": "merci",
+        "lang": "fr",
+        "description": "Thank you"
+    },
+    {
+        "text": "oui",
+        "lang": "fr",
+        "description": "Yes"
+    },
+    {
+        "text": "non",
+        "lang": "fr",
+        "description": "No"
+    },
+    {
+        "text": "s'il vous plaît",
+        "lang": "fr",
+        "description": "Please"
+    },
+    {
+        "text": "excusez-moi",
+        "lang": "fr",
+        "description": "Excuse me",
+    },
+    {
+        "text": "au revoir",
+        "lang": "fr",
+        "description": "Goodbye",
+    },
+    {
+        "text": "comment",
+        "lang": "fr",
+        "description": "How",
+    },
+    {
+        "text": "je t'aime",
+        "lang": "fr",
+        "description": "I love you",
+    },
+    {
+        "text": "moi",
+        "lang": "fr",
+        "description": "Me/I",
+    },
+    {
+        "text": "parlez-vous",
+        "lang": "fr",
+        "description": "Do you speak",
+    }
+]

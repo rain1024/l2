@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Vietnamese",
+        "code": "vi",
+        "flag": "🇻🇳"
+    },
+    {
+        "name": "English",
+        "code": "en",
+        "flag": "🇬🇧"
+    },
+    {
+        "name": "French",
+        "code": "fr",
+        "flag": "🇫🇷"
+    },
+    {
+        "name": "Japanese",
+        "code": "ja",
+        "flag": "🇯🇵"
+    },
+    {
+        "name": "Chinese",
+        "code": "zh-cn",
+        "flag": "🇨🇳"
+    }
+]

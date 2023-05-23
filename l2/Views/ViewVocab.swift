@@ -6,68 +6,62 @@
 //
 
 import SwiftUI
-import AVFoundation
-
-var player: AVAudioPlayer!
 
 struct ViewVocab: View {
     
     @State var searchText = ""
+    @State private var title = "Vocab"
     
-    let words = [
-        "xin chào",
-        "tạm biệt",
-        "cảm ơn",
-        "không có gì",
-        "vui",
-        "buồn",
-        "đúng",
-        "sai",
-        "tốt",
-        "xấu"
-    ]
-    
-    
-    
-    func playSound(sound: String, type: String) {
-        let url = Bundle.main.url(forResource: sound, withExtension: type)
-        guard url != nil else {
-            return
-        }
-        
-        do {
-            player = try AVAudioPlayer(contentsOf: url!)
-            player?.play()
-        } catch {
-            print("\(error)")
-        }
-    }
+    @State private var availableVocabs: [Vocab] = []
     
     var body: some View {
         NavigationView {
             List {
-                ForEach(words, id: \.self) {
-                    word in HStack {
-                        Text(word)
-                        Button(action: {
-                            playSound(sound: word, type: "mp3")
-                        }) {
-                            Image(systemName: "speaker.wave.2.circle")
-                        } .buttonStyle(BorderlessButtonStyle())
-                        Spacer()
+                ForEach(availableVocabs, id: \.text) {
+                    vocab in HStack {
+                        VStack(alignment: .leading, spacing: 5) {
+                            HStack (spacing: 10) {
+                                Text(vocab.text)
+//                                    .border(.red)
+                                Button(action: {
+                                    playSound(sound: vocab.text, type: "mp3")
+                                }) {
+                                    Image(systemName: "speaker.wave.2.circle")
+                                }
+                                .buttonStyle(BorderlessButtonStyle())
+                            }
+//                            .border(.green)
+                            
+                            if vocab.description != nil {
+                                HStack {
+                                    Text(vocab.description!)
+                                        .font(.caption)
+                                }
+//                                .border(.green)
+                            }
+                        }
+//                        .border(.yellow)
+                            
                         NavigationLink {
-                            Word()
+                            ViewVocabDetail(vocab: vocab)
                         } label: {
                             Text("")
                         }
                         
                     }
-                    .padding(3)
+                    .padding(1)
                 }
         
             }
             .searchable(text: $searchText)
-            .navigationTitle("Vocab")
+            .navigationTitle($title)
+        }.onAppear(){
+            let learnLanguage: Language = UserDefaults.standard.getObject(for: "learnLanguage") ?? Vietnamese
+            title = learnLanguage.flag + " Vocab"
+            
+            availableVocabs = vocabs.filter {
+                $0.lang == learnLanguage.code
+            }
         }
     }
 }
