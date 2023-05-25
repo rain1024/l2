@@ -45,6 +45,7 @@ struct ListHeader: View {
     let topics = [
         "All",
         "Greetings",
+        "General",
         "Family",
         "Emotions",
         "Date time",
@@ -54,7 +55,7 @@ struct ListHeader: View {
     ]
     
     var body: some View {
-        ScrollView(.horizontal) {
+        ScrollView(.horizontal, showsIndicators: false) {
             HStack() {
                 ForEach(topics, id: \.self){eachTopic in
                     ButtonTab(
@@ -71,7 +72,7 @@ struct ListHeader: View {
 
 struct ViewVocab: View {
     
-    @State var searchText = ""
+    @State private var searchText = ""
     @State private var title = "Vocab"
     @State private var topic = "All"
     @State private var learnLanguage = Vietnamese
@@ -80,9 +81,7 @@ struct ViewVocab: View {
     
     var body: some View {
         
-        
         NavigationView {
-            
             List {
                 Section(header: ListHeader(topic: $topic)) {
                     ForEach(vocabs.filter {
@@ -103,17 +102,14 @@ struct ViewVocab: View {
                                     }
                                     .buttonStyle(BorderlessButtonStyle())
                                 }
-                                //                            .border(.green)
                                 
                                 if vocab.description != nil {
                                     HStack {
                                         Text(vocab.description!)
                                             .font(.caption)
                                     }
-                                    //.border(.green)
                                 }
                             }
-                            //.border(.yellow)
                             
                             NavigationLink {
                                 ViewVocabDetail(vocab: vocab)

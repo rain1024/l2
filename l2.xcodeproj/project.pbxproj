@@ -7,8 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3754ED5D2A1F34D700691725 /* buồn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED332A1F34D700691725 /* buồn.mp3 */; };
+		3754ED5E2A1F34D700691725 /* thank you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED342A1F34D700691725 /* thank you.mp3 */; };
+		3754ED5F2A1F34D700691725 /* bố.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED352A1F34D700691725 /* bố.mp3 */; };
+		3754ED602A1F34D700691725 /* chicken-little.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED362A1F34D700691725 /* chicken-little.mp3 */; };
+		3754ED612A1F34D700691725 /* xấu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED372A1F34D700691725 /* xấu.mp3 */; };
+		3754ED622A1F34D700691725 /* sai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED382A1F34D700691725 /* sai.mp3 */; };
+		3754ED632A1F34D700691725 /* je t'aime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED392A1F34D700691725 /* je t'aime.mp3 */; };
+		3754ED642A1F34D700691725 /* ông.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3A2A1F34D700691725 /* ông.mp3 */; };
+		3754ED652A1F34D700691725 /* merci.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3B2A1F34D700691725 /* merci.mp3 */; };
+		3754ED662A1F34D700691725 /* chị.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3C2A1F34D700691725 /* chị.mp3 */; };
+		3754ED672A1F34D700691725 /* xin chào.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3D2A1F34D700691725 /* xin chào.mp3 */; };
+		3754ED682A1F34D700691725 /* vui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3E2A1F34D700691725 /* vui.mp3 */; };
+		3754ED692A1F34D700691725 /* oui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED3F2A1F34D700691725 /* oui.mp3 */; };
+		3754ED6A2A1F34D700691725 /* không có gì.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED402A1F34D700691725 /* không có gì.mp3 */; };
+		3754ED6B2A1F34D700691725 /* đúng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED412A1F34D700691725 /* đúng.mp3 */; };
+		3754ED6C2A1F34D700691725 /* con.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED422A1F34D700691725 /* con.mp3 */; };
+		3754ED6D2A1F34D700691725 /* anh.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED432A1F34D700691725 /* anh.mp3 */; };
+		3754ED6E2A1F34D700691725 /* je ne sais pas.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED442A1F34D700691725 /* je ne sais pas.mp3 */; };
+		3754ED6F2A1F34D700691725 /* hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED452A1F34D700691725 /* hello.mp3 */; };
+		3754ED702A1F34D700691725 /* comment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED462A1F34D700691725 /* comment.mp3 */; };
+		3754ED712A1F34D700691725 /* bonjour.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED472A1F34D700691725 /* bonjour.mp3 */; };
+		3754ED722A1F34D700691725 /* s'il vous plaît.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED482A1F34D700691725 /* s'il vous plaît.mp3 */; };
+		3754ED732A1F34D700691725 /* parlez-vous.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED492A1F34D700691725 /* parlez-vous.mp3 */; };
+		3754ED742A1F34D700691725 /* em.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4A2A1F34D700691725 /* em.mp3 */; };
+		3754ED752A1F34D700691725 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4B2A1F34D700691725 /* yes.mp3 */; };
+		3754ED762A1F34D700691725 /* excusez-moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4C2A1F34D700691725 /* excusez-moi.mp3 */; };
+		3754ED772A1F34D700691725 /* moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4D2A1F34D700691725 /* moi.mp3 */; };
+		3754ED782A1F34D700691725 /* mẹ.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4E2A1F34D700691725 /* mẹ.mp3 */; };
+		3754ED792A1F34D700691725 /* bonne nuit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED4F2A1F34D700691725 /* bonne nuit.mp3 */; };
+		3754ED7A2A1F34D700691725 /* sorry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED502A1F34D700691725 /* sorry.mp3 */; };
+		3754ED7B2A1F34D700691725 /* cảm ơn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED512A1F34D700691725 /* cảm ơn.mp3 */; };
+		3754ED7C2A1F34D700691725 /* ma femme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED522A1F34D700691725 /* ma femme.mp3 */; };
+		3754ED7D2A1F34D700691725 /* tốt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED532A1F34D700691725 /* tốt.mp3 */; };
+		3754ED7E2A1F34D700691725 /* non.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED542A1F34D700691725 /* non.mp3 */; };
+		3754ED7F2A1F34D700691725 /* au revoir.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED552A1F34D700691725 /* au revoir.mp3 */; };
+		3754ED802A1F34D700691725 /* bà.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED562A1F34D700691725 /* bà.mp3 */; };
+		3754ED812A1F34D700691725 /* excuse me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED572A1F34D700691725 /* excuse me.mp3 */; };
+		3754ED822A1F34D700691725 /* goodbye.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED582A1F34D700691725 /* goodbye.mp3 */; };
+		3754ED832A1F34D700691725 /* ma femme est belle.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED592A1F34D700691725 /* ma femme est belle.mp3 */; };
+		3754ED842A1F34D700691725 /* please.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5A2A1F34D700691725 /* please.mp3 */; };
+		3754ED852A1F34D700691725 /* tạm biệt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5B2A1F34D700691725 /* tạm biệt.mp3 */; };
+		3754ED862A1F34D700691725 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5C2A1F34D700691725 /* no.mp3 */; };
 		377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */ = {isa = PBXBuildFile; fileRef = 377ACE202A1EE9B100F574B1 /* vocabs2.json */; };
-		377ACE232A1EF89300F574B1 /* bonne nuit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */; };
 		378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64822A10AD9F007FBDD4 /* l2App.swift */; };
 		378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64842A10AD9F007FBDD4 /* ContentView.swift */; };
 		378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 378F64862A10ADA0007FBDD4 /* Assets.xcassets */; };
@@ -19,16 +60,6 @@
 		378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64AD2A12795B007FBDD4 /* ViewVocab.swift */; };
 		378F64B02A12796A007FBDD4 /* ViewB.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64AF2A12796A007FBDD4 /* ViewB.swift */; };
 		378F64B22A127986007FBDD4 /* Library.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64B12A127986007FBDD4 /* Library.swift */; };
-		378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B42A185B07007FBDD4 /* xin chào.mp3 */; };
-		378F64BF2A185E08007FBDD4 /* cảm ơn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */; };
-		378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B72A185E08007FBDD4 /* đúng.mp3 */; };
-		378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B82A185E08007FBDD4 /* tốt.mp3 */; };
-		378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64B92A185E08007FBDD4 /* sai.mp3 */; };
-		378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BA2A185E08007FBDD4 /* buồn.mp3 */; };
-		378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BB2A185E08007FBDD4 /* vui.mp3 */; };
-		378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BC2A185E08007FBDD4 /* xấu.mp3 */; };
-		378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BD2A185E08007FBDD4 /* không có gì.mp3 */; };
-		378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */; };
 		378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64C82A18DB65007FBDD4 /* ModelData.swift */; };
 		378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64CA2A18DDDD007FBDD4 /* stories.json */; };
 		378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64CC2A18DF9D007FBDD4 /* Story.swift */; };
@@ -40,26 +71,6 @@
 		378F64D92A19ADC9007FBDD4 /* Vocab.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64D82A19ADC9007FBDD4 /* Vocab.swift */; };
 		378F64DD2A19B186007FBDD4 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64DC2A19B186007FBDD4 /* Language.swift */; };
 		378F64E32A19B32F007FBDD4 /* languages.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E22A19B32F007FBDD4 /* languages.json */; };
-		378F64EC2A19C486007FBDD4 /* excuse me.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E42A19C486007FBDD4 /* excuse me.mp3 */; };
-		378F64ED2A19C486007FBDD4 /* thank you.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E52A19C486007FBDD4 /* thank you.mp3 */; };
-		378F64EE2A19C486007FBDD4 /* sorry.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E62A19C486007FBDD4 /* sorry.mp3 */; };
-		378F64EF2A19C486007FBDD4 /* please.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E72A19C486007FBDD4 /* please.mp3 */; };
-		378F64F02A19C486007FBDD4 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E82A19C486007FBDD4 /* no.mp3 */; };
-		378F64F12A19C486007FBDD4 /* goodbye.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E92A19C486007FBDD4 /* goodbye.mp3 */; };
-		378F64F22A19C486007FBDD4 /* yes.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64EA2A19C486007FBDD4 /* yes.mp3 */; };
-		378F64F32A19C486007FBDD4 /* hello.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64EB2A19C486007FBDD4 /* hello.mp3 */; };
-		378F64FE2A19C600007FBDD4 /* merci.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F42A19C600007FBDD4 /* merci.mp3 */; };
-		378F64FF2A19C600007FBDD4 /* moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F52A19C600007FBDD4 /* moi.mp3 */; };
-		378F65002A19C600007FBDD4 /* oui.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F62A19C600007FBDD4 /* oui.mp3 */; };
-		378F65012A19C600007FBDD4 /* au revoir.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F72A19C600007FBDD4 /* au revoir.mp3 */; };
-		378F65022A19C600007FBDD4 /* non.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F82A19C600007FBDD4 /* non.mp3 */; };
-		378F65032A19C600007FBDD4 /* comment.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64F92A19C600007FBDD4 /* comment.mp3 */; };
-		378F65042A19C600007FBDD4 /* parlez-vous.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */; };
-		378F65052A19C600007FBDD4 /* s'il vous plaît.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */; };
-		378F65062A19C600007FBDD4 /* bonjour.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FC2A19C600007FBDD4 /* bonjour.mp3 */; };
-		378F65072A19C600007FBDD4 /* excusez-moi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */; };
-		378F65092A19D0AC007FBDD4 /* je t'aime.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */; };
-		378F650B2A1A222C007FBDD4 /* chicken-little.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */; };
 		378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */; };
 		37C365BF2A1BCA5300C162C3 /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 37C365BE2A1BCA5300C162C3 /* SQLite */; };
 		37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */; };
@@ -83,8 +94,49 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3754ED332A1F34D700691725 /* buồn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "buồn.mp3"; sourceTree = "<group>"; };
+		3754ED342A1F34D700691725 /* thank you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "thank you.mp3"; sourceTree = "<group>"; };
+		3754ED352A1F34D700691725 /* bố.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bố.mp3"; sourceTree = "<group>"; };
+		3754ED362A1F34D700691725 /* chicken-little.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "chicken-little.mp3"; sourceTree = "<group>"; };
+		3754ED372A1F34D700691725 /* xấu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xấu.mp3"; sourceTree = "<group>"; };
+		3754ED382A1F34D700691725 /* sai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sai.mp3; sourceTree = "<group>"; };
+		3754ED392A1F34D700691725 /* je t'aime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "je t'aime.mp3"; sourceTree = "<group>"; };
+		3754ED3A2A1F34D700691725 /* ông.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ông.mp3"; sourceTree = "<group>"; };
+		3754ED3B2A1F34D700691725 /* merci.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = merci.mp3; sourceTree = "<group>"; };
+		3754ED3C2A1F34D700691725 /* chị.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "chị.mp3"; sourceTree = "<group>"; };
+		3754ED3D2A1F34D700691725 /* xin chào.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xin chào.mp3"; sourceTree = "<group>"; };
+		3754ED3E2A1F34D700691725 /* vui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vui.mp3; sourceTree = "<group>"; };
+		3754ED3F2A1F34D700691725 /* oui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oui.mp3; sourceTree = "<group>"; };
+		3754ED402A1F34D700691725 /* không có gì.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "không có gì.mp3"; sourceTree = "<group>"; };
+		3754ED412A1F34D700691725 /* đúng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "đúng.mp3"; sourceTree = "<group>"; };
+		3754ED422A1F34D700691725 /* con.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = con.mp3; sourceTree = "<group>"; };
+		3754ED432A1F34D700691725 /* anh.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = anh.mp3; sourceTree = "<group>"; };
+		3754ED442A1F34D700691725 /* je ne sais pas.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "je ne sais pas.mp3"; sourceTree = "<group>"; };
+		3754ED452A1F34D700691725 /* hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hello.mp3; sourceTree = "<group>"; };
+		3754ED462A1F34D700691725 /* comment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comment.mp3; sourceTree = "<group>"; };
+		3754ED472A1F34D700691725 /* bonjour.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bonjour.mp3; sourceTree = "<group>"; };
+		3754ED482A1F34D700691725 /* s'il vous plaît.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "s'il vous plaît.mp3"; sourceTree = "<group>"; };
+		3754ED492A1F34D700691725 /* parlez-vous.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "parlez-vous.mp3"; sourceTree = "<group>"; };
+		3754ED4A2A1F34D700691725 /* em.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = em.mp3; sourceTree = "<group>"; };
+		3754ED4B2A1F34D700691725 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yes.mp3; sourceTree = "<group>"; };
+		3754ED4C2A1F34D700691725 /* excusez-moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excusez-moi.mp3"; sourceTree = "<group>"; };
+		3754ED4D2A1F34D700691725 /* moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moi.mp3; sourceTree = "<group>"; };
+		3754ED4E2A1F34D700691725 /* mẹ.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mẹ.mp3"; sourceTree = "<group>"; };
+		3754ED4F2A1F34D700691725 /* bonne nuit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bonne nuit.mp3"; sourceTree = "<group>"; };
+		3754ED502A1F34D700691725 /* sorry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sorry.mp3; sourceTree = "<group>"; };
+		3754ED512A1F34D700691725 /* cảm ơn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cảm ơn.mp3"; sourceTree = "<group>"; };
+		3754ED522A1F34D700691725 /* ma femme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ma femme.mp3"; sourceTree = "<group>"; };
+		3754ED532A1F34D700691725 /* tốt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tốt.mp3"; sourceTree = "<group>"; };
+		3754ED542A1F34D700691725 /* non.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = non.mp3; sourceTree = "<group>"; };
+		3754ED552A1F34D700691725 /* au revoir.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "au revoir.mp3"; sourceTree = "<group>"; };
+		3754ED562A1F34D700691725 /* bà.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bà.mp3"; sourceTree = "<group>"; };
+		3754ED572A1F34D700691725 /* excuse me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excuse me.mp3"; sourceTree = "<group>"; };
+		3754ED582A1F34D700691725 /* goodbye.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = goodbye.mp3; sourceTree = "<group>"; };
+		3754ED592A1F34D700691725 /* ma femme est belle.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ma femme est belle.mp3"; sourceTree = "<group>"; };
+		3754ED5A2A1F34D700691725 /* please.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = please.mp3; sourceTree = "<group>"; };
+		3754ED5B2A1F34D700691725 /* tạm biệt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tạm biệt.mp3"; sourceTree = "<group>"; };
+		3754ED5C2A1F34D700691725 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
 		377ACE202A1EE9B100F574B1 /* vocabs2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabs2.json; sourceTree = "<group>"; };
-		377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bonne nuit.mp3"; sourceTree = "<group>"; };
 		378F647F2A10AD9F007FBDD4 /* l2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = l2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		378F64822A10AD9F007FBDD4 /* l2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = l2App.swift; sourceTree = "<group>"; };
 		378F64842A10AD9F007FBDD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -98,16 +150,6 @@
 		378F64AD2A12795B007FBDD4 /* ViewVocab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewVocab.swift; sourceTree = "<group>"; };
 		378F64AF2A12796A007FBDD4 /* ViewB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewB.swift; sourceTree = "<group>"; };
 		378F64B12A127986007FBDD4 /* Library.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Library.swift; sourceTree = "<group>"; };
-		378F64B42A185B07007FBDD4 /* xin chào.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xin chào.mp3"; sourceTree = "<group>"; };
-		378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "cảm ơn.mp3"; sourceTree = "<group>"; };
-		378F64B72A185E08007FBDD4 /* đúng.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "đúng.mp3"; sourceTree = "<group>"; };
-		378F64B82A185E08007FBDD4 /* tốt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tốt.mp3"; sourceTree = "<group>"; };
-		378F64B92A185E08007FBDD4 /* sai.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sai.mp3; sourceTree = "<group>"; };
-		378F64BA2A185E08007FBDD4 /* buồn.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "buồn.mp3"; sourceTree = "<group>"; };
-		378F64BB2A185E08007FBDD4 /* vui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = vui.mp3; sourceTree = "<group>"; };
-		378F64BC2A185E08007FBDD4 /* xấu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "xấu.mp3"; sourceTree = "<group>"; };
-		378F64BD2A185E08007FBDD4 /* không có gì.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "không có gì.mp3"; sourceTree = "<group>"; };
-		378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tạm biệt.mp3"; sourceTree = "<group>"; };
 		378F64C82A18DB65007FBDD4 /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
 		378F64CA2A18DDDD007FBDD4 /* stories.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = stories.json; sourceTree = "<group>"; };
 		378F64CC2A18DF9D007FBDD4 /* Story.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Story.swift; sourceTree = "<group>"; };
@@ -119,26 +161,6 @@
 		378F64D82A19ADC9007FBDD4 /* Vocab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vocab.swift; sourceTree = "<group>"; };
 		378F64DC2A19B186007FBDD4 /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
 		378F64E22A19B32F007FBDD4 /* languages.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = languages.json; sourceTree = "<group>"; };
-		378F64E42A19C486007FBDD4 /* excuse me.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excuse me.mp3"; sourceTree = "<group>"; };
-		378F64E52A19C486007FBDD4 /* thank you.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "thank you.mp3"; sourceTree = "<group>"; };
-		378F64E62A19C486007FBDD4 /* sorry.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sorry.mp3; sourceTree = "<group>"; };
-		378F64E72A19C486007FBDD4 /* please.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = please.mp3; sourceTree = "<group>"; };
-		378F64E82A19C486007FBDD4 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
-		378F64E92A19C486007FBDD4 /* goodbye.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = goodbye.mp3; sourceTree = "<group>"; };
-		378F64EA2A19C486007FBDD4 /* yes.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = yes.mp3; sourceTree = "<group>"; };
-		378F64EB2A19C486007FBDD4 /* hello.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hello.mp3; sourceTree = "<group>"; };
-		378F64F42A19C600007FBDD4 /* merci.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = merci.mp3; sourceTree = "<group>"; };
-		378F64F52A19C600007FBDD4 /* moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = moi.mp3; sourceTree = "<group>"; };
-		378F64F62A19C600007FBDD4 /* oui.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oui.mp3; sourceTree = "<group>"; };
-		378F64F72A19C600007FBDD4 /* au revoir.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "au revoir.mp3"; sourceTree = "<group>"; };
-		378F64F82A19C600007FBDD4 /* non.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = non.mp3; sourceTree = "<group>"; };
-		378F64F92A19C600007FBDD4 /* comment.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = comment.mp3; sourceTree = "<group>"; };
-		378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "parlez-vous.mp3"; sourceTree = "<group>"; };
-		378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "s'il vous plaît.mp3"; sourceTree = "<group>"; };
-		378F64FC2A19C600007FBDD4 /* bonjour.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bonjour.mp3; sourceTree = "<group>"; };
-		378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "excusez-moi.mp3"; sourceTree = "<group>"; };
-		378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "je t'aime.mp3"; sourceTree = "<group>"; };
-		378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "chicken-little.mp3"; sourceTree = "<group>"; };
 		378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryPlayer.swift; sourceTree = "<group>"; };
 		37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite3; sourceTree = "<group>"; };
 		37C365C12A1C49E800C162C3 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
@@ -170,6 +192,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3754ED322A1F34D700691725 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				3754ED332A1F34D700691725 /* buồn.mp3 */,
+				3754ED342A1F34D700691725 /* thank you.mp3 */,
+				3754ED352A1F34D700691725 /* bố.mp3 */,
+				3754ED362A1F34D700691725 /* chicken-little.mp3 */,
+				3754ED372A1F34D700691725 /* xấu.mp3 */,
+				3754ED382A1F34D700691725 /* sai.mp3 */,
+				3754ED392A1F34D700691725 /* je t'aime.mp3 */,
+				3754ED3A2A1F34D700691725 /* ông.mp3 */,
+				3754ED3B2A1F34D700691725 /* merci.mp3 */,
+				3754ED3C2A1F34D700691725 /* chị.mp3 */,
+				3754ED3D2A1F34D700691725 /* xin chào.mp3 */,
+				3754ED3E2A1F34D700691725 /* vui.mp3 */,
+				3754ED3F2A1F34D700691725 /* oui.mp3 */,
+				3754ED402A1F34D700691725 /* không có gì.mp3 */,
+				3754ED412A1F34D700691725 /* đúng.mp3 */,
+				3754ED422A1F34D700691725 /* con.mp3 */,
+				3754ED432A1F34D700691725 /* anh.mp3 */,
+				3754ED442A1F34D700691725 /* je ne sais pas.mp3 */,
+				3754ED452A1F34D700691725 /* hello.mp3 */,
+				3754ED462A1F34D700691725 /* comment.mp3 */,
+				3754ED472A1F34D700691725 /* bonjour.mp3 */,
+				3754ED482A1F34D700691725 /* s'il vous plaît.mp3 */,
+				3754ED492A1F34D700691725 /* parlez-vous.mp3 */,
+				3754ED4A2A1F34D700691725 /* em.mp3 */,
+				3754ED4B2A1F34D700691725 /* yes.mp3 */,
+				3754ED4C2A1F34D700691725 /* excusez-moi.mp3 */,
+				3754ED4D2A1F34D700691725 /* moi.mp3 */,
+				3754ED4E2A1F34D700691725 /* mẹ.mp3 */,
+				3754ED4F2A1F34D700691725 /* bonne nuit.mp3 */,
+				3754ED502A1F34D700691725 /* sorry.mp3 */,
+				3754ED512A1F34D700691725 /* cảm ơn.mp3 */,
+				3754ED522A1F34D700691725 /* ma femme.mp3 */,
+				3754ED532A1F34D700691725 /* tốt.mp3 */,
+				3754ED542A1F34D700691725 /* non.mp3 */,
+				3754ED552A1F34D700691725 /* au revoir.mp3 */,
+				3754ED562A1F34D700691725 /* bà.mp3 */,
+				3754ED572A1F34D700691725 /* excuse me.mp3 */,
+				3754ED582A1F34D700691725 /* goodbye.mp3 */,
+				3754ED592A1F34D700691725 /* ma femme est belle.mp3 */,
+				3754ED5A2A1F34D700691725 /* please.mp3 */,
+				3754ED5B2A1F34D700691725 /* tạm biệt.mp3 */,
+				3754ED5C2A1F34D700691725 /* no.mp3 */,
+			);
+			name = Sounds;
+			path = l2/Sounds;
+			sourceTree = SOURCE_ROOT;
+		};
 		378F64762A10AD9F007FBDD4 = {
 			isa = PBXGroup;
 			children = (
@@ -196,7 +268,6 @@
 			children = (
 				378F64DB2A19AFC2007FBDD4 /* Model */,
 				378F64DA2A19AFA6007FBDD4 /* Data */,
-				378F64B32A185AC5007FBDD4 /* Sounds */,
 				378F64AC2A12792E007FBDD4 /* Views */,
 				378F64822A10AD9F007FBDD4 /* l2App.swift */,
 				378F64842A10AD9F007FBDD4 /* ContentView.swift */,
@@ -246,44 +317,6 @@
 			path = Views;
 			sourceTree = "<group>";
 		};
-		378F64B32A185AC5007FBDD4 /* Sounds */ = {
-			isa = PBXGroup;
-			children = (
-				377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */,
-				378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */,
-				378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */,
-				378F64F72A19C600007FBDD4 /* au revoir.mp3 */,
-				378F64FC2A19C600007FBDD4 /* bonjour.mp3 */,
-				378F64F92A19C600007FBDD4 /* comment.mp3 */,
-				378F64FD2A19C600007FBDD4 /* excusez-moi.mp3 */,
-				378F64F42A19C600007FBDD4 /* merci.mp3 */,
-				378F64F52A19C600007FBDD4 /* moi.mp3 */,
-				378F64F82A19C600007FBDD4 /* non.mp3 */,
-				378F64F62A19C600007FBDD4 /* oui.mp3 */,
-				378F64FA2A19C600007FBDD4 /* parlez-vous.mp3 */,
-				378F64FB2A19C600007FBDD4 /* s'il vous plaît.mp3 */,
-				378F64E42A19C486007FBDD4 /* excuse me.mp3 */,
-				378F64E92A19C486007FBDD4 /* goodbye.mp3 */,
-				378F64EB2A19C486007FBDD4 /* hello.mp3 */,
-				378F64E82A19C486007FBDD4 /* no.mp3 */,
-				378F64E72A19C486007FBDD4 /* please.mp3 */,
-				378F64E62A19C486007FBDD4 /* sorry.mp3 */,
-				378F64E52A19C486007FBDD4 /* thank you.mp3 */,
-				378F64EA2A19C486007FBDD4 /* yes.mp3 */,
-				378F64BA2A185E08007FBDD4 /* buồn.mp3 */,
-				378F64B62A185E08007FBDD4 /* cảm ơn.mp3 */,
-				378F64B72A185E08007FBDD4 /* đúng.mp3 */,
-				378F64BD2A185E08007FBDD4 /* không có gì.mp3 */,
-				378F64B92A185E08007FBDD4 /* sai.mp3 */,
-				378F64BE2A185E08007FBDD4 /* tạm biệt.mp3 */,
-				378F64B82A185E08007FBDD4 /* tốt.mp3 */,
-				378F64BB2A185E08007FBDD4 /* vui.mp3 */,
-				378F64BC2A185E08007FBDD4 /* xấu.mp3 */,
-				378F64B42A185B07007FBDD4 /* xin chào.mp3 */,
-			);
-			path = Sounds;
-			sourceTree = "<group>";
-		};
 		378F64DA2A19AFA6007FBDD4 /* Data */ = {
 			isa = PBXGroup;
 			children = (
@@ -293,6 +326,7 @@
 				378F64CA2A18DDDD007FBDD4 /* stories.json */,
 				378F64E22A19B32F007FBDD4 /* languages.json */,
 				37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */,
+				3754ED322A1F34D700691725 /* Sounds */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -417,44 +451,55 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				378F64FF2A19C600007FBDD4 /* moi.mp3 in Resources */,
-				378F64F02A19C486007FBDD4 /* no.mp3 in Resources */,
-				377ACE232A1EF89300F574B1 /* bonne nuit.mp3 in Resources */,
-				378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */,
-				378F64F22A19C486007FBDD4 /* yes.mp3 in Resources */,
-				378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */,
-				378F64BF2A185E08007FBDD4 /* cảm ơn.mp3 in Resources */,
-				378F650B2A1A222C007FBDD4 /* chicken-little.mp3 in Resources */,
-				378F64EC2A19C486007FBDD4 /* excuse me.mp3 in Resources */,
-				378F65062A19C600007FBDD4 /* bonjour.mp3 in Resources */,
-				378F65072A19C600007FBDD4 /* excusez-moi.mp3 in Resources */,
-				378F65092A19D0AC007FBDD4 /* je t'aime.mp3 in Resources */,
-				378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */,
-				378F65022A19C600007FBDD4 /* non.mp3 in Resources */,
-				378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */,
+				3754ED842A1F34D700691725 /* please.mp3 in Resources */,
+				3754ED782A1F34D700691725 /* mẹ.mp3 in Resources */,
+				3754ED772A1F34D700691725 /* moi.mp3 in Resources */,
 				377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */,
-				378F65052A19C600007FBDD4 /* s'il vous plaît.mp3 in Resources */,
-				378F64EF2A19C486007FBDD4 /* please.mp3 in Resources */,
-				378F64F12A19C486007FBDD4 /* goodbye.mp3 in Resources */,
-				378F64EE2A19C486007FBDD4 /* sorry.mp3 in Resources */,
-				378F65012A19C600007FBDD4 /* au revoir.mp3 in Resources */,
-				378F64C52A185E08007FBDD4 /* xấu.mp3 in Resources */,
 				378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */,
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
-				378F64C62A185E08007FBDD4 /* không có gì.mp3 in Resources */,
+				3754ED672A1F34D700691725 /* xin chào.mp3 in Resources */,
+				3754ED612A1F34D700691725 /* xấu.mp3 in Resources */,
+				3754ED7C2A1F34D700691725 /* ma femme.mp3 in Resources */,
+				3754ED832A1F34D700691725 /* ma femme est belle.mp3 in Resources */,
+				3754ED6F2A1F34D700691725 /* hello.mp3 in Resources */,
+				3754ED6C2A1F34D700691725 /* con.mp3 in Resources */,
+				3754ED602A1F34D700691725 /* chicken-little.mp3 in Resources */,
 				378F64D72A19AD71007FBDD4 /* vocabs.json in Resources */,
-				378F64B52A185B07007FBDD4 /* xin chào.mp3 in Resources */,
 				378F64D52A19A2B7007FBDD4 /* README.md in Resources */,
+				3754ED722A1F34D700691725 /* s'il vous plaît.mp3 in Resources */,
+				3754ED652A1F34D700691725 /* merci.mp3 in Resources */,
+				3754ED662A1F34D700691725 /* chị.mp3 in Resources */,
+				3754ED712A1F34D700691725 /* bonjour.mp3 in Resources */,
+				3754ED7B2A1F34D700691725 /* cảm ơn.mp3 in Resources */,
+				3754ED812A1F34D700691725 /* excuse me.mp3 in Resources */,
+				3754ED5F2A1F34D700691725 /* bố.mp3 in Resources */,
+				3754ED802A1F34D700691725 /* bà.mp3 in Resources */,
+				3754ED6D2A1F34D700691725 /* anh.mp3 in Resources */,
+				3754ED6E2A1F34D700691725 /* je ne sais pas.mp3 in Resources */,
+				3754ED822A1F34D700691725 /* goodbye.mp3 in Resources */,
+				3754ED762A1F34D700691725 /* excusez-moi.mp3 in Resources */,
+				3754ED5E2A1F34D700691725 /* thank you.mp3 in Resources */,
+				3754ED6B2A1F34D700691725 /* đúng.mp3 in Resources */,
+				3754ED732A1F34D700691725 /* parlez-vous.mp3 in Resources */,
+				3754ED632A1F34D700691725 /* je t'aime.mp3 in Resources */,
 				378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */,
-				378F65042A19C600007FBDD4 /* parlez-vous.mp3 in Resources */,
-				378F65032A19C600007FBDD4 /* comment.mp3 in Resources */,
-				378F64F32A19C486007FBDD4 /* hello.mp3 in Resources */,
-				378F64ED2A19C486007FBDD4 /* thank you.mp3 in Resources */,
+				3754ED752A1F34D700691725 /* yes.mp3 in Resources */,
+				3754ED792A1F34D700691725 /* bonne nuit.mp3 in Resources */,
+				3754ED852A1F34D700691725 /* tạm biệt.mp3 in Resources */,
+				3754ED862A1F34D700691725 /* no.mp3 in Resources */,
+				3754ED682A1F34D700691725 /* vui.mp3 in Resources */,
+				3754ED5D2A1F34D700691725 /* buồn.mp3 in Resources */,
+				3754ED6A2A1F34D700691725 /* không có gì.mp3 in Resources */,
+				3754ED702A1F34D700691725 /* comment.mp3 in Resources */,
+				3754ED7E2A1F34D700691725 /* non.mp3 in Resources */,
+				3754ED642A1F34D700691725 /* ông.mp3 in Resources */,
+				3754ED622A1F34D700691725 /* sai.mp3 in Resources */,
+				3754ED692A1F34D700691725 /* oui.mp3 in Resources */,
 				378F64E32A19B32F007FBDD4 /* languages.json in Resources */,
-				378F64C32A185E08007FBDD4 /* buồn.mp3 in Resources */,
-				378F65002A19C600007FBDD4 /* oui.mp3 in Resources */,
-				378F64C12A185E08007FBDD4 /* tốt.mp3 in Resources */,
-				378F64FE2A19C600007FBDD4 /* merci.mp3 in Resources */,
+				3754ED7A2A1F34D700691725 /* sorry.mp3 in Resources */,
+				3754ED7D2A1F34D700691725 /* tốt.mp3 in Resources */,
+				3754ED7F2A1F34D700691725 /* au revoir.mp3 in Resources */,
+				3754ED742A1F34D700691725 /* em.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

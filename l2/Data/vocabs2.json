@@ -115,28 +115,28 @@
         "text": "merci",
         "description": "Thank you",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 22,
         "text": "oui",
         "description": "Yes",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 23,
         "text": "non",
         "description": "No",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 24,
         "text": "s'il vous plaît",
         "description": "Please",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 25,
@@ -157,7 +157,7 @@
         "text": "comment",
         "description": "How",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 28,
@@ -171,14 +171,14 @@
         "text": "moi",
         "description": "Me/I",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 30,
         "text": "parlez-vous",
         "description": "Do you speak",
         "lang": "fr",
-        "topic": "Greetings"
+        "topic": "General"
     },
     {
         "id": 31,
@@ -234,5 +234,12 @@
         "description": "good night",
         "lang": "fr",
         "topic": "Greetings"
+    },
+    {
+        "id": 40,
+        "text": "je ne sais pas",
+        "description": "I don't know",
+        "lang": "fr",
+        "topic": "General"
     }
 ]
