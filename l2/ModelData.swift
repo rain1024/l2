@@ -9,7 +9,7 @@ import SQLite3
 
 var stories: [Story] = load("stories.json")
 
-var vocabs: [Vocab] = load("vocabs.json")
+var vocabs: [Vocab] = load("vocabs2.json")
 
 var languages: [Language] = load("languages.json")
 

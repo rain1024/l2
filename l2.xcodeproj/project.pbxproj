@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */ = {isa = PBXBuildFile; fileRef = 377ACE202A1EE9B100F574B1 /* vocabs2.json */; };
+		377ACE232A1EF89300F574B1 /* bonne nuit.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */; };
 		378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64822A10AD9F007FBDD4 /* l2App.swift */; };
 		378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64842A10AD9F007FBDD4 /* ContentView.swift */; };
 		378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 378F64862A10ADA0007FBDD4 /* Assets.xcassets */; };
@@ -81,6 +83,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		377ACE202A1EE9B100F574B1 /* vocabs2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabs2.json; sourceTree = "<group>"; };
+		377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "bonne nuit.mp3"; sourceTree = "<group>"; };
 		378F647F2A10AD9F007FBDD4 /* l2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = l2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		378F64822A10AD9F007FBDD4 /* l2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = l2App.swift; sourceTree = "<group>"; };
 		378F64842A10AD9F007FBDD4 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -245,6 +249,7 @@
 		378F64B32A185AC5007FBDD4 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
+				377ACE222A1EF89300F574B1 /* bonne nuit.mp3 */,
 				378F650A2A1A222C007FBDD4 /* chicken-little.mp3 */,
 				378F65082A19D0AC007FBDD4 /* je t'aime.mp3 */,
 				378F64F72A19C600007FBDD4 /* au revoir.mp3 */,
@@ -284,6 +289,7 @@
 			children = (
 				37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */,
 				378F64D62A19AD71007FBDD4 /* vocabs.json */,
+				377ACE202A1EE9B100F574B1 /* vocabs2.json */,
 				378F64CA2A18DDDD007FBDD4 /* stories.json */,
 				378F64E22A19B32F007FBDD4 /* languages.json */,
 				37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */,
@@ -413,6 +419,7 @@
 			files = (
 				378F64FF2A19C600007FBDD4 /* moi.mp3 in Resources */,
 				378F64F02A19C486007FBDD4 /* no.mp3 in Resources */,
+				377ACE232A1EF89300F574B1 /* bonne nuit.mp3 in Resources */,
 				378F64C42A185E08007FBDD4 /* vui.mp3 in Resources */,
 				378F64F22A19C486007FBDD4 /* yes.mp3 in Resources */,
 				378F64C22A185E08007FBDD4 /* sai.mp3 in Resources */,
@@ -425,6 +432,7 @@
 				378F64C72A185E08007FBDD4 /* tạm biệt.mp3 in Resources */,
 				378F65022A19C600007FBDD4 /* non.mp3 in Resources */,
 				378F64C02A185E08007FBDD4 /* đúng.mp3 in Resources */,
+				377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */,
 				378F65052A19C600007FBDD4 /* s'il vous plaît.mp3 in Resources */,
 				378F64EF2A19C486007FBDD4 /* please.mp3 in Resources */,
 				378F64F12A19C486007FBDD4 /* goodbye.mp3 in Resources */,

@@ -1,0 +1,238 @@
+[
+    {
+        "id": 1,
+        "text": "xin chào",
+        "description": "chào hỏi trang trọng",
+        "lang": "vi",
+        "topic": "Greetings"
+    },
+    {
+        "id": 2,
+        "text": "tạm biệt",
+        "lang": "vi",
+        "topic": "Greetings"
+    },
+    {
+        "id": 3,
+        "text": "không có gì",
+        "lang": "vi",
+        "topic": "Greetings"
+    },
+    {
+        "id": 4,
+        "text": "cảm ơn",
+        "lang": "vi",
+        "topic": "Greetings"
+    },
+    {
+        "id": 5,
+        "text": "vui",
+        "lang": "vi",
+        "topic": "Emotions"
+    },
+    {
+        "id": 6,
+        "text": "buồn",
+        "lang": "vi",
+        "topic": "Emotions"
+    },
+    {
+        "id": 7,
+        "text": "đúng",
+        "lang": "vi"
+    },
+    {
+        "id": 8,
+        "text": "sai",
+        "lang": "vi"
+    },
+    {
+        "id": 9,
+        "text": "tốt",
+        "lang": "vi"
+    },
+    {
+        "id": 10,
+        "text": "xấu",
+        "lang": "vi"
+    },
+    {
+        "id": 11,
+        "text": "please",
+        "lang": "en"
+    },
+    {
+        "id": 12,
+        "text": "thank you",
+        "lang": "en"
+    },
+    {
+        "id": 13,
+        "text": "yes",
+        "lang": "en"
+    },
+    {
+        "id": 14,
+        "text": "no",
+        "lang": "en"
+    },
+    {
+        "id": 15,
+        "text": "goodbye",
+        "lang": "en"
+    },
+    {
+        "id": 16,
+        "text": "hello",
+        "lang": "en"
+    },
+    {
+        "id": 17,
+        "text": "excuse me",
+        "lang": "en"
+    },
+    {
+        "id": 18,
+        "text": "sorry",
+        "lang": "en"
+    },
+    {
+        "id": 19,
+        "text": "ma femme",
+        "description": "my wife",
+        "lang": "fr",
+        "topic": "Family"
+    },
+    {
+        "id": 20,
+        "text": "bonjour",
+        "description": "hello",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 21,
+        "text": "merci",
+        "description": "Thank you",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 22,
+        "text": "oui",
+        "description": "Yes",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 23,
+        "text": "non",
+        "description": "No",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 24,
+        "text": "s'il vous plaît",
+        "description": "Please",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 25,
+        "text": "excusez-moi",
+        "description": "Excuse me",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 26,
+        "text": "au revoir",
+        "description": "Goodbye",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 27,
+        "text": "comment",
+        "description": "How",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 28,
+        "text": "je t'aime",
+        "description": "I love you",
+        "lang": "fr",
+        "topic": "Family"
+    },
+    {
+        "id": 29,
+        "text": "moi",
+        "description": "Me/I",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 30,
+        "text": "parlez-vous",
+        "description": "Do you speak",
+        "lang": "fr",
+        "topic": "Greetings"
+    },
+    {
+        "id": 31,
+        "text": "ông",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 32,
+        "text": "bà",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 33,
+        "text": "bố",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 34,
+        "text": "anh",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 35,
+        "text": "chị",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 36,
+        "text": "em",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 37,
+        "text": "con",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 38,
+        "text": "mẹ",
+        "lang": "vi",
+        "topic": "Family"
+    },
+    {
+        "id": 39,
+        "text": "bonne nuit",
+        "description": "good night",
+        "lang": "fr",
+        "topic": "Greetings"
+    }
+]
