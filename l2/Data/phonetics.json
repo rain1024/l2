@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "b",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "d",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "f",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "g",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "k",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "l",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "m",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "n",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɲ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ŋ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "p",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ʁ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "s",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ʃ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "t",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "v",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "z",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ʒ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "j",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "w",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɥ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "a",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɑ",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "e",
+        "sound": "voiced_uvular_fricative"
+    },
+    {
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɛ",
+        "sound": "voiced_uvular_fricative"
+    }
+]

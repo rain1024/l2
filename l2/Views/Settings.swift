@@ -38,6 +38,16 @@ struct Settings: View {
                         UserDefaults.standard.storeObject(object, key: "byLanguage")
                     }
                 }
+                
+                Section(header: Text("Tools")) {
+                    NavigationLink(destination: ViewIPATool()) {
+                        Text("IPA")
+                    }
+                    NavigationLink(destination: ViewIPATool()) {
+                        Text("Alphabet")
+                    }
+                }
+                
             }
             .navigationTitle("Settings")
         }

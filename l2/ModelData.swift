@@ -13,6 +13,8 @@ var vocabs: [Vocab] = load("vocabs2.json")
 
 var languages: [Language] = load("languages.json")
 
+var phonetics: [Phonetic] = load("phonetics.json")
+
 let languageNames = languages.map { $0.name }
 
 func load<T: Decodable>(_ filename: String) -> T {

@@ -49,6 +49,8 @@
 		3754ED842A1F34D700691725 /* please.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5A2A1F34D700691725 /* please.mp3 */; };
 		3754ED852A1F34D700691725 /* tạm biệt.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5B2A1F34D700691725 /* tạm biệt.mp3 */; };
 		3754ED862A1F34D700691725 /* no.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3754ED5C2A1F34D700691725 /* no.mp3 */; };
+		3758E4C62A1F98A000B5CE87 /* ViewIPATool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3758E4C52A1F98A000B5CE87 /* ViewIPATool.swift */; };
+		3758E4CA2A20349E00B5CE87 /* Phonetic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3758E4C92A20349E00B5CE87 /* Phonetic.swift */; };
 		377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */ = {isa = PBXBuildFile; fileRef = 377ACE202A1EE9B100F574B1 /* vocabs2.json */; };
 		378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64822A10AD9F007FBDD4 /* l2App.swift */; };
 		378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64842A10AD9F007FBDD4 /* ContentView.swift */; };
@@ -74,6 +76,8 @@
 		378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */; };
 		37C365BF2A1BCA5300C162C3 /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 37C365BE2A1BCA5300C162C3 /* SQLite */; };
 		37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */; };
+		37CD94E32A2045F200F8B8FC /* voiced_uvular_fricative.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */; };
+		37CD94E52A20460700F8B8FC /* phonetics.json in Resources */ = {isa = PBXBuildFile; fileRef = 37CD94E42A20460700F8B8FC /* phonetics.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -136,6 +140,8 @@
 		3754ED5A2A1F34D700691725 /* please.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = please.mp3; sourceTree = "<group>"; };
 		3754ED5B2A1F34D700691725 /* tạm biệt.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tạm biệt.mp3"; sourceTree = "<group>"; };
 		3754ED5C2A1F34D700691725 /* no.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = no.mp3; sourceTree = "<group>"; };
+		3758E4C52A1F98A000B5CE87 /* ViewIPATool.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewIPATool.swift; sourceTree = "<group>"; };
+		3758E4C92A20349E00B5CE87 /* Phonetic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phonetic.swift; sourceTree = "<group>"; };
 		377ACE202A1EE9B100F574B1 /* vocabs2.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = vocabs2.json; sourceTree = "<group>"; };
 		378F647F2A10AD9F007FBDD4 /* l2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = l2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		378F64822A10AD9F007FBDD4 /* l2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = l2App.swift; sourceTree = "<group>"; };
@@ -164,6 +170,8 @@
 		378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryPlayer.swift; sourceTree = "<group>"; };
 		37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite3; sourceTree = "<group>"; };
 		37C365C12A1C49E800C162C3 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_uvular_fricative.mp3; sourceTree = "<group>"; };
+		37CD94E42A20460700F8B8FC /* phonetics.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = phonetics.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -313,6 +321,7 @@
 				378F64CE2A18E1A8007FBDD4 /* StoryDetail.swift */,
 				378F64D22A18F8F5007FBDD4 /* Settings.swift */,
 				378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */,
+				3758E4C52A1F98A000B5CE87 /* ViewIPATool.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -320,6 +329,7 @@
 		378F64DA2A19AFA6007FBDD4 /* Data */ = {
 			isa = PBXGroup;
 			children = (
+				37CD94E12A2045D300F8B8FC /* Phonetics */,
 				37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */,
 				378F64D62A19AD71007FBDD4 /* vocabs.json */,
 				377ACE202A1EE9B100F574B1 /* vocabs2.json */,
@@ -327,6 +337,7 @@
 				378F64E22A19B32F007FBDD4 /* languages.json */,
 				37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */,
 				3754ED322A1F34D700691725 /* Sounds */,
+				37CD94E42A20460700F8B8FC /* phonetics.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -337,8 +348,17 @@
 				378F64CC2A18DF9D007FBDD4 /* Story.swift */,
 				378F64D82A19ADC9007FBDD4 /* Vocab.swift */,
 				378F64DC2A19B186007FBDD4 /* Language.swift */,
+				3758E4C92A20349E00B5CE87 /* Phonetic.swift */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		37CD94E12A2045D300F8B8FC /* Phonetics */ = {
+			isa = PBXGroup;
+			children = (
+				37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */,
+			);
+			path = Phonetics;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -458,6 +478,7 @@
 				378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */,
 				378F648A2A10ADA0007FBDD4 /* Preview Assets.xcassets in Resources */,
 				3754ED672A1F34D700691725 /* xin chào.mp3 in Resources */,
+				37CD94E52A20460700F8B8FC /* phonetics.json in Resources */,
 				3754ED612A1F34D700691725 /* xấu.mp3 in Resources */,
 				3754ED7C2A1F34D700691725 /* ma femme.mp3 in Resources */,
 				3754ED832A1F34D700691725 /* ma femme est belle.mp3 in Resources */,
@@ -478,6 +499,7 @@
 				3754ED6E2A1F34D700691725 /* je ne sais pas.mp3 in Resources */,
 				3754ED822A1F34D700691725 /* goodbye.mp3 in Resources */,
 				3754ED762A1F34D700691725 /* excusez-moi.mp3 in Resources */,
+				37CD94E32A2045F200F8B8FC /* voiced_uvular_fricative.mp3 in Resources */,
 				3754ED5E2A1F34D700691725 /* thank you.mp3 in Resources */,
 				3754ED6B2A1F34D700691725 /* đúng.mp3 in Resources */,
 				3754ED732A1F34D700691725 /* parlez-vous.mp3 in Resources */,
@@ -527,6 +549,7 @@
 				378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */,
 				378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */,
 				378F64D12A18F311007FBDD4 /* ViewVocabDetail.swift in Sources */,
+				3758E4CA2A20349E00B5CE87 /* Phonetic.swift in Sources */,
 				37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */,
 				378F64852A10AD9F007FBDD4 /* ContentView.swift in Sources */,
 				378F64D32A18F8F5007FBDD4 /* Settings.swift in Sources */,
@@ -538,6 +561,7 @@
 				378F64DD2A19B186007FBDD4 /* Language.swift in Sources */,
 				378F64B02A12796A007FBDD4 /* ViewB.swift in Sources */,
 				378F64C92A18DB65007FBDD4 /* ModelData.swift in Sources */,
+				3758E4C62A1F98A000B5CE87 /* ViewIPATool.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
