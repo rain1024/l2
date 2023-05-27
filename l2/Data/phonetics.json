@@ -1,127 +1,320 @@
 [
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 1,
+        "name": "Voiced bilabial plosive",
         "symbol": "b",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_bilabial_plosive",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Voiced_bilabial_plosive.ogg",
+        "examples": [
+            {
+                "ipa": "**b**oku",
+                "word": "beaucoup",
+                "description": "a lot",
+                "sound": "bd025d622d83f0c819df5075b3ac27dc",
+                "sound2": "3645e40296b049712fa0807274dce52b"
+            },
+            {
+                "ipa": "de**b**y",
+                "word": "début",
+                "description": "beginning",
+                "sound": "b_fr_2",
+                "sound2": null
+            },
+            {
+                "ipa": "tɔ̃**b**",
+                "word": "tombe",
+                "description": "to fall",
+                "sound": "b_fr_3",
+                "sound2": null
+            }
+        ]
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 2,
+        "name": "Voiced dental and alveolar plosives",
         "symbol": "d",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_alveolar_plosive",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 3,
+        "name": "Voiceless labiodental fricative",
         "symbol": "f",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiceless_labio-dental_fricative",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Voiceless_labio-dental_fricative.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "g",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
+        "id": 4,
         "name": "Voiceless bilabial plosive",
         "symbol": "k",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiceless_velar_plosive",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Voiceless_velar_plosive.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 5,
+        "name": "Voiced dental, alveolar and postalveolar lateral approximants",
         "symbol": "l",
-        "sound": "voiced_uvular_fricative"
+        "sound": "alveolar_lateral_approximant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 6,
+        "name": "Voiced bilabial nasal",
         "symbol": "m",
-        "sound": "voiced_uvular_fricative"
+        "sound": "bilabial_nasal",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 7,
+        "name": "Voiced dental, alveolar and postalveolar nasals",
         "symbol": "n",
-        "sound": "voiced_uvular_fricative"
+        "sound": "alveolar_nasal",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "ɲ",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "ŋ",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
+        "id": 8,
         "name": "Voiceless bilabial plosive",
         "symbol": "p",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiceless_bilabial_plosive",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Voiceless_bilabial_plosive.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "ʁ",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
-        "name": "Voiceless bilabial plosive",
+        "id": 9,
+        "name": "Voiceless alveolar fricative",
         "symbol": "s",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiceless_alveolar_sibilant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiceless_alveolar_sibilant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "ʃ",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
-        "name": "Voiceless bilabial plosive",
+        "id": 10,
+        "name": "Voiceless dental and alveolar plosives",
         "symbol": "t",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiceless_alveolar_plosive",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Voiceless_alveolar_plosive.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 11,
+        "name": "Voiced labiodental fricative",
         "symbol": "v",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_labio-dental_fricative",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Voiced_labio-dental_fricative.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 12,
+        "name": "Voiced alveolar fricative",
         "symbol": "z",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_alveolar_sibilant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Voiced_alveolar_sibilant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 14,
+        "name": "Voiced palatal nasal",
+        "symbol": "ɲ",
+        "sound": "palatal_nasal",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg",
+        "examples": []
+    },
+    {
+        "id": 15,
+        "name": "Voiced uvular fricative",
+        "symbol": "ʁ",
+        "sound": "voiced_uvular_fricative",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Voiced_uvular_fricative.ogg",
+        "examples": []
+    },
+    {
+        "id": 16,
+        "name": "Voiceless postalveolar fricative",
+        "symbol": "ʃ",
+        "sound": "voiceless_palato-alveolar_sibilant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Voiceless_palato-alveolar_sibilant.ogg",
+        "examples": []
+    },
+    {
+        "id": 17,
+        "name": "Voiced postalveolar fricative",
         "symbol": "ʒ",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_palato-alveolar_sibilant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Voiced_palato-alveolar_sibilant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 18,
+        "name": "Voiced postalveolar affricate",
+        "symbol": "dʒ",
+        "sound": "voiced_palato-alveolar_affricate",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Voiced_palato-alveolar_affricate.ogg",
+        "examples": []
+    },
+    {
+        "id": 19,
+        "name": "Voiceless postalveolar affricate",
+        "symbol": "tʃ",
+        "sound": "voiceless_palato-alveolar_affricate",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg",
+        "examples": []
+    },
+    {
+        "id": 20,
+        "name": "Voiced velar nasal",
+        "symbol": "ŋ",
+        "sound": "velar_nasal",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg",
+        "examples": []
+    },
+    {
+        "id": 21,
+        "name": "Voiced palatal approximant",
         "symbol": "j",
-        "sound": "voiced_uvular_fricative"
+        "sound": "palatal_approximant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 22,
+        "name": "Voiced labial–velar approximant",
         "symbol": "w",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_labio-velar_approximant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Voiced_labio-velar_approximant.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 23,
+        "name": "Voiced labial–palatal approximant",
         "symbol": "ɥ",
-        "sound": "voiced_uvular_fricative"
+        "sound": "voiced_labial–palatal_approximant",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q150_%28fra%29-WikiLucas00-IPA_%C9%A5.wav",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 24,
+        "name": "Open front unrounded vowel",
         "symbol": "a",
-        "sound": "voiced_uvular_fricative"
+        "sound": "pr_open_front_unrounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
-        "symbol": "ɑ",
-        "sound": "voiced_uvular_fricative"
-    },
-    {
-        "name": "Voiceless bilabial plosive",
+        "id": 25,
+        "name": "Close-mid front unrounded vowel",
         "symbol": "e",
-        "sound": "voiced_uvular_fricative"
+        "sound": "close-mid_front_unrounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg",
+        "examples": []
     },
     {
-        "name": "Voiceless bilabial plosive",
+        "id": 26,
+        "name": "Close front unrounded vowel",
+        "symbol": "i",
+        "sound": "close_front_unrounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Close_front_unrounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 27,
+        "name": "Close-mid back rounded vowel",
+        "symbol": "o",
+        "sound": "close-mid_back_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 28,
+        "name": "Close back rounded vowel",
+        "symbol": "u",
+        "sound": "close_back_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 29,
+        "name": "Close front rounded vowel",
+        "symbol": "y",
+        "sound": "close_front_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 30,
+        "name": "Close-mid front rounded vowel",
+        "symbol": "ø",
+        "sound": "close-mid_front_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 31,
+        "name": "Open-mid front rounded vowel",
+        "symbol": "œ",
+        "sound": "open-mid_front_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Open-mid_front_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 32,
+        "name": "Open-mid back rounded vowel",
+        "symbol": "ɔ",
+        "sound": "pr-open-mid_back_rounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 33,
+        "name": "Mid central vowel",
+        "symbol": "ə",
+        "sound": "mid-central_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 34,
+        "name": "Open-mid front unrounded vowel",
         "symbol": "ɛ",
-        "sound": "voiced_uvular_fricative"
+        "sound": "open-mid_front_unrounded_vowel",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg",
+        "examples": []
+    },
+    {
+        "id": 35,
+        "name": "Nasal vowel",
+        "symbol": "ɑ̃",
+        "sound": "voiced_uvular_fricative",
+        "sound_source_url": null,
+        "examples": []
+    },
+    {
+        "id": 36,
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɔ̃",
+        "sound": "voiced_uvular_fricative",
+        "sound_source_url": null,
+        "examples": []
+    },
+    {
+        "id": 37,
+        "name": "Voiceless bilabial plosive",
+        "symbol": "ɛ̃",
+        "sound": "voiced_uvular_fricative",
+        "sound_source_url": null,
+        "examples": []
+    },
+    {
+        "id": 38,
+        "name": "Voiced velar plosive",
+        "symbol": "g",
+        "sound": "voiced_velar_plosive_02",
+        "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Voiced_velar_plosive_02.ogg",
+        "examples": []
     }
 ]

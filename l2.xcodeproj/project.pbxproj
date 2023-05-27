@@ -74,9 +74,46 @@
 		378F64DD2A19B186007FBDD4 /* Language.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F64DC2A19B186007FBDD4 /* Language.swift */; };
 		378F64E32A19B32F007FBDD4 /* languages.json in Resources */ = {isa = PBXBuildFile; fileRef = 378F64E22A19B32F007FBDD4 /* languages.json */; };
 		378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */; };
+		37B5B9542A20FA750031A129 /* velar_nasal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9372A20FA750031A129 /* velar_nasal.mp3 */; };
+		37B5B9552A20FA750031A129 /* voiced_labio-dental_fricative.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9382A20FA750031A129 /* voiced_labio-dental_fricative.mp3 */; };
+		37B5B9562A20FA750031A129 /* palatal_approximant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9392A20FA750031A129 /* palatal_approximant.mp3 */; };
+		37B5B9572A20FA750031A129 /* pr_open_front_unrounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93A2A20FA750031A129 /* pr_open_front_unrounded_vowel.mp3 */; };
+		37B5B9582A20FA750031A129 /* voiced_palato-alveolar_sibilant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93B2A20FA750031A129 /* voiced_palato-alveolar_sibilant.mp3 */; };
+		37B5B9592A20FA750031A129 /* bilabial_nasal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93C2A20FA750031A129 /* bilabial_nasal.mp3 */; };
+		37B5B95A2A20FA750031A129 /* voiceless_palato-alveolar_affricate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93D2A20FA750031A129 /* voiceless_palato-alveolar_affricate.mp3 */; };
+		37B5B95B2A20FA750031A129 /* voiceless_alveolar_plosive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93E2A20FA750031A129 /* voiceless_alveolar_plosive.mp3 */; };
+		37B5B95C2A20FA750031A129 /* voiceless_labio-dental_fricative.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B93F2A20FA750031A129 /* voiceless_labio-dental_fricative.mp3 */; };
+		37B5B95D2A20FA750031A129 /* voiceless_velar_plosive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9402A20FA750031A129 /* voiceless_velar_plosive.mp3 */; };
+		37B5B95E2A20FA750031A129 /* close-mid_front_unrounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9412A20FA750031A129 /* close-mid_front_unrounded_vowel.mp3 */; };
+		37B5B95F2A20FA750031A129 /* close_front_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9422A20FA750031A129 /* close_front_rounded_vowel.mp3 */; };
+		37B5B9602A20FA750031A129 /* close-mid_back_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9432A20FA750031A129 /* close-mid_back_rounded_vowel.mp3 */; };
+		37B5B9612A20FA750031A129 /* voiced_palato-alveolar_affricate.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9442A20FA750031A129 /* voiced_palato-alveolar_affricate.mp3 */; };
+		37B5B9622A20FA750031A129 /* voiceless_alveolar_sibilant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9452A20FA750031A129 /* voiceless_alveolar_sibilant.mp3 */; };
+		37B5B9632A20FA750031A129 /* voiced_velar_plosive_02.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9462A20FA750031A129 /* voiced_velar_plosive_02.mp3 */; };
+		37B5B9642A20FA750031A129 /* voiced_labio-velar_approximant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9472A20FA750031A129 /* voiced_labio-velar_approximant.mp3 */; };
+		37B5B9652A20FA750031A129 /* voiceless_palato-alveolar_sibilant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9482A20FA750031A129 /* voiceless_palato-alveolar_sibilant.mp3 */; };
+		37B5B9662A20FA750031A129 /* close-mid_front_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9492A20FA750031A129 /* close-mid_front_rounded_vowel.mp3 */; };
+		37B5B9672A20FA750031A129 /* alveolar_nasal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94A2A20FA750031A129 /* alveolar_nasal.mp3 */; };
+		37B5B9682A20FA750031A129 /* voiceless_bilabial_plosive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94B2A20FA750031A129 /* voiceless_bilabial_plosive.mp3 */; };
+		37B5B9692A20FA750031A129 /* close_back_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94C2A20FA750031A129 /* close_back_rounded_vowel.mp3 */; };
+		37B5B96A2A20FA750031A129 /* voiced_uvular_fricative.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94D2A20FA750031A129 /* voiced_uvular_fricative.mp3 */; };
+		37B5B96B2A20FA750031A129 /* close_front_unrounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94E2A20FA750031A129 /* close_front_unrounded_vowel.mp3 */; };
+		37B5B96C2A20FA750031A129 /* palatal_nasal.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B94F2A20FA750031A129 /* palatal_nasal.mp3 */; };
+		37B5B96D2A20FA750031A129 /* voiced_labial–palatal_approximant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9502A20FA750031A129 /* voiced_labial–palatal_approximant.mp3 */; };
+		37B5B96E2A20FA750031A129 /* alveolar_lateral_approximant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9512A20FA750031A129 /* alveolar_lateral_approximant.mp3 */; };
+		37B5B96F2A20FA750031A129 /* voiced_alveolar_plosive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9522A20FA750031A129 /* voiced_alveolar_plosive.mp3 */; };
+		37B5B9702A20FA750031A129 /* voiced_alveolar_sibilant.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9532A20FA750031A129 /* voiced_alveolar_sibilant.mp3 */; };
+		37B5B9722A20FB610031A129 /* voiced_bilabial_plosive.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9712A20FB610031A129 /* voiced_bilabial_plosive.mp3 */; };
+		37B5B9772A20FD180031A129 /* open-mid_front_unrounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9732A20FD180031A129 /* open-mid_front_unrounded_vowel.mp3 */; };
+		37B5B9782A20FD180031A129 /* open-mid_front_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9742A20FD180031A129 /* open-mid_front_rounded_vowel.mp3 */; };
+		37B5B9792A20FD180031A129 /* pr-open-mid_back_rounded_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9752A20FD180031A129 /* pr-open-mid_back_rounded_vowel.mp3 */; };
+		37B5B97A2A20FD180031A129 /* mid-central_vowel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9762A20FD180031A129 /* mid-central_vowel.mp3 */; };
+		37B5B97C2A21037A0031A129 /* PhoneticItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B5B97B2A21037A0031A129 /* PhoneticItemView.swift */; };
+		37B5B97E2A21045C0031A129 /* PhoneticDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37B5B97D2A21045C0031A129 /* PhoneticDetailView.swift */; };
+		37B5B9832A2218890031A129 /* bd025d622d83f0c819df5075b3ac27dc.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9822A2218890031A129 /* bd025d622d83f0c819df5075b3ac27dc.mp3 */; };
+		37B5B9872A2221210031A129 /* 3645e40296b049712fa0807274dce52b.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37B5B9862A2221210031A129 /* 3645e40296b049712fa0807274dce52b.mp3 */; };
 		37C365BF2A1BCA5300C162C3 /* SQLite in Frameworks */ = {isa = PBXBuildFile; productRef = 37C365BE2A1BCA5300C162C3 /* SQLite */; };
 		37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */; };
-		37CD94E32A2045F200F8B8FC /* voiced_uvular_fricative.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */; };
 		37CD94E52A20460700F8B8FC /* phonetics.json in Resources */ = {isa = PBXBuildFile; fileRef = 37CD94E42A20460700F8B8FC /* phonetics.json */; };
 /* End PBXBuildFile section */
 
@@ -168,9 +205,46 @@
 		378F64DC2A19B186007FBDD4 /* Language.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Language.swift; sourceTree = "<group>"; };
 		378F64E22A19B32F007FBDD4 /* languages.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = languages.json; sourceTree = "<group>"; };
 		378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoryPlayer.swift; sourceTree = "<group>"; };
+		37B5B9372A20FA750031A129 /* velar_nasal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = velar_nasal.mp3; sourceTree = "<group>"; };
+		37B5B9382A20FA750031A129 /* voiced_labio-dental_fricative.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiced_labio-dental_fricative.mp3"; sourceTree = "<group>"; };
+		37B5B9392A20FA750031A129 /* palatal_approximant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = palatal_approximant.mp3; sourceTree = "<group>"; };
+		37B5B93A2A20FA750031A129 /* pr_open_front_unrounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pr_open_front_unrounded_vowel.mp3; sourceTree = "<group>"; };
+		37B5B93B2A20FA750031A129 /* voiced_palato-alveolar_sibilant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiced_palato-alveolar_sibilant.mp3"; sourceTree = "<group>"; };
+		37B5B93C2A20FA750031A129 /* bilabial_nasal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = bilabial_nasal.mp3; sourceTree = "<group>"; };
+		37B5B93D2A20FA750031A129 /* voiceless_palato-alveolar_affricate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiceless_palato-alveolar_affricate.mp3"; sourceTree = "<group>"; };
+		37B5B93E2A20FA750031A129 /* voiceless_alveolar_plosive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiceless_alveolar_plosive.mp3; sourceTree = "<group>"; };
+		37B5B93F2A20FA750031A129 /* voiceless_labio-dental_fricative.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiceless_labio-dental_fricative.mp3"; sourceTree = "<group>"; };
+		37B5B9402A20FA750031A129 /* voiceless_velar_plosive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiceless_velar_plosive.mp3; sourceTree = "<group>"; };
+		37B5B9412A20FA750031A129 /* close-mid_front_unrounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "close-mid_front_unrounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B9422A20FA750031A129 /* close_front_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = close_front_rounded_vowel.mp3; sourceTree = "<group>"; };
+		37B5B9432A20FA750031A129 /* close-mid_back_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "close-mid_back_rounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B9442A20FA750031A129 /* voiced_palato-alveolar_affricate.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiced_palato-alveolar_affricate.mp3"; sourceTree = "<group>"; };
+		37B5B9452A20FA750031A129 /* voiceless_alveolar_sibilant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiceless_alveolar_sibilant.mp3; sourceTree = "<group>"; };
+		37B5B9462A20FA750031A129 /* voiced_velar_plosive_02.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_velar_plosive_02.mp3; sourceTree = "<group>"; };
+		37B5B9472A20FA750031A129 /* voiced_labio-velar_approximant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiced_labio-velar_approximant.mp3"; sourceTree = "<group>"; };
+		37B5B9482A20FA750031A129 /* voiceless_palato-alveolar_sibilant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiceless_palato-alveolar_sibilant.mp3"; sourceTree = "<group>"; };
+		37B5B9492A20FA750031A129 /* close-mid_front_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "close-mid_front_rounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B94A2A20FA750031A129 /* alveolar_nasal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alveolar_nasal.mp3; sourceTree = "<group>"; };
+		37B5B94B2A20FA750031A129 /* voiceless_bilabial_plosive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiceless_bilabial_plosive.mp3; sourceTree = "<group>"; };
+		37B5B94C2A20FA750031A129 /* close_back_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = close_back_rounded_vowel.mp3; sourceTree = "<group>"; };
+		37B5B94D2A20FA750031A129 /* voiced_uvular_fricative.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_uvular_fricative.mp3; sourceTree = "<group>"; };
+		37B5B94E2A20FA750031A129 /* close_front_unrounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = close_front_unrounded_vowel.mp3; sourceTree = "<group>"; };
+		37B5B94F2A20FA750031A129 /* palatal_nasal.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = palatal_nasal.mp3; sourceTree = "<group>"; };
+		37B5B9502A20FA750031A129 /* voiced_labial–palatal_approximant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "voiced_labial–palatal_approximant.mp3"; sourceTree = "<group>"; };
+		37B5B9512A20FA750031A129 /* alveolar_lateral_approximant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alveolar_lateral_approximant.mp3; sourceTree = "<group>"; };
+		37B5B9522A20FA750031A129 /* voiced_alveolar_plosive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_alveolar_plosive.mp3; sourceTree = "<group>"; };
+		37B5B9532A20FA750031A129 /* voiced_alveolar_sibilant.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_alveolar_sibilant.mp3; sourceTree = "<group>"; };
+		37B5B9712A20FB610031A129 /* voiced_bilabial_plosive.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_bilabial_plosive.mp3; sourceTree = "<group>"; };
+		37B5B9732A20FD180031A129 /* open-mid_front_unrounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "open-mid_front_unrounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B9742A20FD180031A129 /* open-mid_front_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "open-mid_front_rounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B9752A20FD180031A129 /* pr-open-mid_back_rounded_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "pr-open-mid_back_rounded_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B9762A20FD180031A129 /* mid-central_vowel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "mid-central_vowel.mp3"; sourceTree = "<group>"; };
+		37B5B97B2A21037A0031A129 /* PhoneticItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneticItemView.swift; sourceTree = "<group>"; };
+		37B5B97D2A21045C0031A129 /* PhoneticDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhoneticDetailView.swift; sourceTree = "<group>"; };
+		37B5B9822A2218890031A129 /* bd025d622d83f0c819df5075b3ac27dc.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = bd025d622d83f0c819df5075b3ac27dc.mp3; path = l2/Data/PhoneticsExamples/bd025d622d83f0c819df5075b3ac27dc.mp3; sourceTree = SOURCE_ROOT; };
+		37B5B9862A2221210031A129 /* 3645e40296b049712fa0807274dce52b.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = 3645e40296b049712fa0807274dce52b.mp3; sourceTree = "<group>"; };
 		37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite3; sourceTree = "<group>"; };
 		37C365C12A1C49E800C162C3 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
-		37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = voiced_uvular_fricative.mp3; sourceTree = "<group>"; };
 		37CD94E42A20460700F8B8FC /* phonetics.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = phonetics.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -200,6 +274,47 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3725BD6B2A20F8880003D3BE /* Phonetics */ = {
+			isa = PBXGroup;
+			children = (
+				37B5B9762A20FD180031A129 /* mid-central_vowel.mp3 */,
+				37B5B9742A20FD180031A129 /* open-mid_front_rounded_vowel.mp3 */,
+				37B5B9732A20FD180031A129 /* open-mid_front_unrounded_vowel.mp3 */,
+				37B5B9752A20FD180031A129 /* pr-open-mid_back_rounded_vowel.mp3 */,
+				37B5B9712A20FB610031A129 /* voiced_bilabial_plosive.mp3 */,
+				37B5B9512A20FA750031A129 /* alveolar_lateral_approximant.mp3 */,
+				37B5B94A2A20FA750031A129 /* alveolar_nasal.mp3 */,
+				37B5B93C2A20FA750031A129 /* bilabial_nasal.mp3 */,
+				37B5B94C2A20FA750031A129 /* close_back_rounded_vowel.mp3 */,
+				37B5B9422A20FA750031A129 /* close_front_rounded_vowel.mp3 */,
+				37B5B94E2A20FA750031A129 /* close_front_unrounded_vowel.mp3 */,
+				37B5B9432A20FA750031A129 /* close-mid_back_rounded_vowel.mp3 */,
+				37B5B9492A20FA750031A129 /* close-mid_front_rounded_vowel.mp3 */,
+				37B5B9412A20FA750031A129 /* close-mid_front_unrounded_vowel.mp3 */,
+				37B5B9392A20FA750031A129 /* palatal_approximant.mp3 */,
+				37B5B94F2A20FA750031A129 /* palatal_nasal.mp3 */,
+				37B5B93A2A20FA750031A129 /* pr_open_front_unrounded_vowel.mp3 */,
+				37B5B9372A20FA750031A129 /* velar_nasal.mp3 */,
+				37B5B9522A20FA750031A129 /* voiced_alveolar_plosive.mp3 */,
+				37B5B9532A20FA750031A129 /* voiced_alveolar_sibilant.mp3 */,
+				37B5B9502A20FA750031A129 /* voiced_labial–palatal_approximant.mp3 */,
+				37B5B9382A20FA750031A129 /* voiced_labio-dental_fricative.mp3 */,
+				37B5B9472A20FA750031A129 /* voiced_labio-velar_approximant.mp3 */,
+				37B5B9442A20FA750031A129 /* voiced_palato-alveolar_affricate.mp3 */,
+				37B5B93B2A20FA750031A129 /* voiced_palato-alveolar_sibilant.mp3 */,
+				37B5B94D2A20FA750031A129 /* voiced_uvular_fricative.mp3 */,
+				37B5B9462A20FA750031A129 /* voiced_velar_plosive_02.mp3 */,
+				37B5B93E2A20FA750031A129 /* voiceless_alveolar_plosive.mp3 */,
+				37B5B9452A20FA750031A129 /* voiceless_alveolar_sibilant.mp3 */,
+				37B5B94B2A20FA750031A129 /* voiceless_bilabial_plosive.mp3 */,
+				37B5B93F2A20FA750031A129 /* voiceless_labio-dental_fricative.mp3 */,
+				37B5B93D2A20FA750031A129 /* voiceless_palato-alveolar_affricate.mp3 */,
+				37B5B9482A20FA750031A129 /* voiceless_palato-alveolar_sibilant.mp3 */,
+				37B5B9402A20FA750031A129 /* voiceless_velar_plosive.mp3 */,
+			);
+			path = Phonetics;
+			sourceTree = "<group>";
+		};
 		3754ED322A1F34D700691725 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
@@ -322,6 +437,8 @@
 				378F64D22A18F8F5007FBDD4 /* Settings.swift */,
 				378F650C2A1A2353007FBDD4 /* StoryPlayer.swift */,
 				3758E4C52A1F98A000B5CE87 /* ViewIPATool.swift */,
+				37B5B97B2A21037A0031A129 /* PhoneticItemView.swift */,
+				37B5B97D2A21045C0031A129 /* PhoneticDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -329,15 +446,16 @@
 		378F64DA2A19AFA6007FBDD4 /* Data */ = {
 			isa = PBXGroup;
 			children = (
-				37CD94E12A2045D300F8B8FC /* Phonetics */,
+				37B5B9812A2218460031A129 /* PhoneticsExamples */,
+				3725BD6B2A20F8880003D3BE /* Phonetics */,
 				37C365BC2A1BC7CF00C162C3 /* database.sqlite3 */,
 				378F64D62A19AD71007FBDD4 /* vocabs.json */,
 				377ACE202A1EE9B100F574B1 /* vocabs2.json */,
 				378F64CA2A18DDDD007FBDD4 /* stories.json */,
 				378F64E22A19B32F007FBDD4 /* languages.json */,
+				37CD94E42A20460700F8B8FC /* phonetics.json */,
 				37C365C02A1C49E800C162C3 /* Model.xcdatamodeld */,
 				3754ED322A1F34D700691725 /* Sounds */,
-				37CD94E42A20460700F8B8FC /* phonetics.json */,
 			);
 			path = Data;
 			sourceTree = "<group>";
@@ -353,12 +471,13 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		37CD94E12A2045D300F8B8FC /* Phonetics */ = {
+		37B5B9812A2218460031A129 /* PhoneticsExamples */ = {
 			isa = PBXGroup;
 			children = (
-				37CD94E22A2045F200F8B8FC /* voiced_uvular_fricative.mp3 */,
+				37B5B9862A2221210031A129 /* 3645e40296b049712fa0807274dce52b.mp3 */,
+				37B5B9822A2218890031A129 /* bd025d622d83f0c819df5075b3ac27dc.mp3 */,
 			);
-			path = Phonetics;
+			path = PhoneticsExamples;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -472,7 +591,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				3754ED842A1F34D700691725 /* please.mp3 in Resources */,
+				37B5B96D2A20FA750031A129 /* voiced_labial–palatal_approximant.mp3 in Resources */,
 				3754ED782A1F34D700691725 /* mẹ.mp3 in Resources */,
+				37B5B9722A20FB610031A129 /* voiced_bilabial_plosive.mp3 in Resources */,
 				3754ED772A1F34D700691725 /* moi.mp3 in Resources */,
 				377ACE212A1EE9B100F574B1 /* vocabs2.json in Resources */,
 				378F64CB2A18DDDD007FBDD4 /* stories.json in Resources */,
@@ -480,15 +601,28 @@
 				3754ED672A1F34D700691725 /* xin chào.mp3 in Resources */,
 				37CD94E52A20460700F8B8FC /* phonetics.json in Resources */,
 				3754ED612A1F34D700691725 /* xấu.mp3 in Resources */,
+				37B5B9662A20FA750031A129 /* close-mid_front_rounded_vowel.mp3 in Resources */,
+				37B5B9582A20FA750031A129 /* voiced_palato-alveolar_sibilant.mp3 in Resources */,
 				3754ED7C2A1F34D700691725 /* ma femme.mp3 in Resources */,
 				3754ED832A1F34D700691725 /* ma femme est belle.mp3 in Resources */,
+				37B5B95D2A20FA750031A129 /* voiceless_velar_plosive.mp3 in Resources */,
+				37B5B95F2A20FA750031A129 /* close_front_rounded_vowel.mp3 in Resources */,
 				3754ED6F2A1F34D700691725 /* hello.mp3 in Resources */,
+				37B5B95B2A20FA750031A129 /* voiceless_alveolar_plosive.mp3 in Resources */,
 				3754ED6C2A1F34D700691725 /* con.mp3 in Resources */,
+				37B5B9592A20FA750031A129 /* bilabial_nasal.mp3 in Resources */,
 				3754ED602A1F34D700691725 /* chicken-little.mp3 in Resources */,
+				37B5B9692A20FA750031A129 /* close_back_rounded_vowel.mp3 in Resources */,
 				378F64D72A19AD71007FBDD4 /* vocabs.json in Resources */,
+				37B5B95C2A20FA750031A129 /* voiceless_labio-dental_fricative.mp3 in Resources */,
+				37B5B96C2A20FA750031A129 /* palatal_nasal.mp3 in Resources */,
 				378F64D52A19A2B7007FBDD4 /* README.md in Resources */,
 				3754ED722A1F34D700691725 /* s'il vous plaît.mp3 in Resources */,
 				3754ED652A1F34D700691725 /* merci.mp3 in Resources */,
+				37B5B9702A20FA750031A129 /* voiced_alveolar_sibilant.mp3 in Resources */,
+				37B5B9602A20FA750031A129 /* close-mid_back_rounded_vowel.mp3 in Resources */,
+				37B5B97A2A20FD180031A129 /* mid-central_vowel.mp3 in Resources */,
+				37B5B95A2A20FA750031A129 /* voiceless_palato-alveolar_affricate.mp3 in Resources */,
 				3754ED662A1F34D700691725 /* chị.mp3 in Resources */,
 				3754ED712A1F34D700691725 /* bonjour.mp3 in Resources */,
 				3754ED7B2A1F34D700691725 /* cảm ơn.mp3 in Resources */,
@@ -496,31 +630,51 @@
 				3754ED5F2A1F34D700691725 /* bố.mp3 in Resources */,
 				3754ED802A1F34D700691725 /* bà.mp3 in Resources */,
 				3754ED6D2A1F34D700691725 /* anh.mp3 in Resources */,
+				37B5B9572A20FA750031A129 /* pr_open_front_unrounded_vowel.mp3 in Resources */,
+				37B5B9792A20FD180031A129 /* pr-open-mid_back_rounded_vowel.mp3 in Resources */,
 				3754ED6E2A1F34D700691725 /* je ne sais pas.mp3 in Resources */,
 				3754ED822A1F34D700691725 /* goodbye.mp3 in Resources */,
+				37B5B9772A20FD180031A129 /* open-mid_front_unrounded_vowel.mp3 in Resources */,
+				37B5B96B2A20FA750031A129 /* close_front_unrounded_vowel.mp3 in Resources */,
+				37B5B96E2A20FA750031A129 /* alveolar_lateral_approximant.mp3 in Resources */,
 				3754ED762A1F34D700691725 /* excusez-moi.mp3 in Resources */,
-				37CD94E32A2045F200F8B8FC /* voiced_uvular_fricative.mp3 in Resources */,
+				37B5B9652A20FA750031A129 /* voiceless_palato-alveolar_sibilant.mp3 in Resources */,
+				37B5B9872A2221210031A129 /* 3645e40296b049712fa0807274dce52b.mp3 in Resources */,
 				3754ED5E2A1F34D700691725 /* thank you.mp3 in Resources */,
+				37B5B9672A20FA750031A129 /* alveolar_nasal.mp3 in Resources */,
 				3754ED6B2A1F34D700691725 /* đúng.mp3 in Resources */,
 				3754ED732A1F34D700691725 /* parlez-vous.mp3 in Resources */,
 				3754ED632A1F34D700691725 /* je t'aime.mp3 in Resources */,
+				37B5B9782A20FD180031A129 /* open-mid_front_rounded_vowel.mp3 in Resources */,
 				378F64872A10ADA0007FBDD4 /* Assets.xcassets in Resources */,
 				3754ED752A1F34D700691725 /* yes.mp3 in Resources */,
+				37B5B9562A20FA750031A129 /* palatal_approximant.mp3 in Resources */,
 				3754ED792A1F34D700691725 /* bonne nuit.mp3 in Resources */,
+				37B5B96F2A20FA750031A129 /* voiced_alveolar_plosive.mp3 in Resources */,
 				3754ED852A1F34D700691725 /* tạm biệt.mp3 in Resources */,
+				37B5B9552A20FA750031A129 /* voiced_labio-dental_fricative.mp3 in Resources */,
+				37B5B9682A20FA750031A129 /* voiceless_bilabial_plosive.mp3 in Resources */,
 				3754ED862A1F34D700691725 /* no.mp3 in Resources */,
 				3754ED682A1F34D700691725 /* vui.mp3 in Resources */,
 				3754ED5D2A1F34D700691725 /* buồn.mp3 in Resources */,
 				3754ED6A2A1F34D700691725 /* không có gì.mp3 in Resources */,
+				37B5B9612A20FA750031A129 /* voiced_palato-alveolar_affricate.mp3 in Resources */,
+				37B5B95E2A20FA750031A129 /* close-mid_front_unrounded_vowel.mp3 in Resources */,
+				37B5B9832A2218890031A129 /* bd025d622d83f0c819df5075b3ac27dc.mp3 in Resources */,
+				37B5B96A2A20FA750031A129 /* voiced_uvular_fricative.mp3 in Resources */,
 				3754ED702A1F34D700691725 /* comment.mp3 in Resources */,
 				3754ED7E2A1F34D700691725 /* non.mp3 in Resources */,
 				3754ED642A1F34D700691725 /* ông.mp3 in Resources */,
 				3754ED622A1F34D700691725 /* sai.mp3 in Resources */,
 				3754ED692A1F34D700691725 /* oui.mp3 in Resources */,
 				378F64E32A19B32F007FBDD4 /* languages.json in Resources */,
+				37B5B9542A20FA750031A129 /* velar_nasal.mp3 in Resources */,
+				37B5B9632A20FA750031A129 /* voiced_velar_plosive_02.mp3 in Resources */,
 				3754ED7A2A1F34D700691725 /* sorry.mp3 in Resources */,
 				3754ED7D2A1F34D700691725 /* tốt.mp3 in Resources */,
+				37B5B9622A20FA750031A129 /* voiceless_alveolar_sibilant.mp3 in Resources */,
 				3754ED7F2A1F34D700691725 /* au revoir.mp3 in Resources */,
+				37B5B9642A20FA750031A129 /* voiced_labio-velar_approximant.mp3 in Resources */,
 				3754ED742A1F34D700691725 /* em.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -548,6 +702,7 @@
 			files = (
 				378F64CF2A18E1A8007FBDD4 /* StoryDetail.swift in Sources */,
 				378F64CD2A18DF9D007FBDD4 /* Story.swift in Sources */,
+				37B5B97C2A21037A0031A129 /* PhoneticItemView.swift in Sources */,
 				378F64D12A18F311007FBDD4 /* ViewVocabDetail.swift in Sources */,
 				3758E4CA2A20349E00B5CE87 /* Phonetic.swift in Sources */,
 				37C365C22A1C49E800C162C3 /* Model.xcdatamodeld in Sources */,
@@ -556,6 +711,7 @@
 				378F64AE2A12795B007FBDD4 /* ViewVocab.swift in Sources */,
 				378F650D2A1A2353007FBDD4 /* StoryPlayer.swift in Sources */,
 				378F64D92A19ADC9007FBDD4 /* Vocab.swift in Sources */,
+				37B5B97E2A21045C0031A129 /* PhoneticDetailView.swift in Sources */,
 				378F64B22A127986007FBDD4 /* Library.swift in Sources */,
 				378F64832A10AD9F007FBDD4 /* l2App.swift in Sources */,
 				378F64DD2A19B186007FBDD4 /* Language.swift in Sources */,
