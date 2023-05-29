@@ -49,11 +49,6 @@ struct PhoneticItemView: View {
 
 struct PhoneticItemView_Previews: PreviewProvider {
     static var previews: some View {
-        PhoneticItemView(
-            phonetic: Phonetic(
-                name: "Voiced bilabial plosive",
-                symbol: "b",
-                sound: "voiced_bilabial_plosive"
-            ))
+        PhoneticItemView(phonetic: SamplePhonetic)
     }
 }

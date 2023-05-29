@@ -5,27 +5,41 @@
         "symbol": "b",
         "sound": "voiced_bilabial_plosive",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Voiced_bilabial_plosive.ogg",
+        "type": "consonant",
+        "order": 1,
         "examples": [
             {
                 "ipa": "**b**oku",
                 "word": "beaucoup",
                 "description": "a lot",
                 "sound": "bd025d622d83f0c819df5075b3ac27dc",
-                "sound2": "3645e40296b049712fa0807274dce52b"
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/bd025d622d83f0c819df5075b3ac27dc.mp3",
+                "sound2": "3645e40296b049712fa0807274dce52b",
+                "sound2_url": "https://easypronunciation.com/audio_hash/french/100/3645e40296b049712fa0807274dce52b.mp3",
+                "sound3": null,
+                "sound3_url": null
             },
             {
                 "ipa": "de**b**y",
                 "word": "début",
                 "description": "beginning",
-                "sound": "b_fr_2",
-                "sound2": null
+                "sound": "ec78e5246b4ad2f1fc3285f708b1024b",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ec78e5246b4ad2f1fc3285f708b1024b.mp3",
+                "sound2": "cfb86837c18c5e9890e64b65aec2d8f7",
+                "sound2_url": "https://easypronunciation.com/audio/french/cfb86837c18c5e9890e64b65aec2d8f7.mp3",
+                "sound3": null,
+                "sound3_url": null
             },
             {
                 "ipa": "tɔ̃**b**",
                 "word": "tombe",
                 "description": "to fall",
-                "sound": "b_fr_3",
-                "sound2": null
+                "sound": "ca6ffbdd53867627377cff92440e0f11",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ca6ffbdd53867627377cff92440e0f11.mp3",
+                "sound2": "619ede929f42e008f923675cab966450",
+                "sound2_url": "https://easypronunciation.com/audio/french/619ede929f42e008f923675cab966450.mp3",
+                "sound3": null,
+                "sound3_url": null
             }
         ]
     },
@@ -35,7 +49,43 @@
         "symbol": "d",
         "sound": "voiced_alveolar_plosive",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Voiced_alveolar_plosive.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 2,
+        "examples": [
+            {
+                "ipa": "**d**e",
+                "word": "de",
+                "description": "of",
+                "sound": "bc7f982c746266f8308eb354c29fed88",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/bc7f982c746266f8308eb354c29fed88.mp3",
+                "sound2": "ee9bba372d41c1dd3c1cf250c37ae87d",
+                "sound2_url": "https://easypronunciation.com/audio/french/ee9bba372d41c1dd3c1cf250c37ae87d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "i**d**e",
+                "word": "idée",
+                "description": "idea",
+                "sound": "13e6ee242a6f2710f81a0928243445e9",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/13e6ee242a6f2710f81a0928243445e9.mp3",
+                "sound2": "7fc629644c7bc401e718d6b17609ac4c",
+                "sound2_url": "https://easypronunciation.com/audio/french/7fc629644c7bc401e718d6b17609ac4c.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ɡʁɑ̃**d**",
+                "word": "grande",
+                "description": "big",
+                "sound": "45295cf63634e245547abd821fd5acd7",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/45295cf63634e245547abd821fd5acd7.mp3",
+                "sound2": "efc8b74c031181b8c7e573072ce6797e",
+                "sound2_url": "https://easypronunciation.com/audio/french/efc8b74c031181b8c7e573072ce6797e.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 3,
@@ -43,7 +93,43 @@
         "symbol": "f",
         "sound": "voiceless_labio-dental_fricative",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Voiceless_labio-dental_fricative.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 3,
+        "examples": [
+            {
+                "ipa": "**f**am",
+                "word": "femme",
+                "description": "family",
+                "sound": "a76e1e8ea68be4b38f6c258e7dd1ceb9",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/a76e1e8ea68be4b38f6c258e7dd1ceb9.mp3",
+                "sound2": "f78cd200d3912d6d97561a96d99343df",
+                "sound2_url": "https://easypronunciation.com/audio/french/f78cd200d3912d6d97561a96d99343df.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ɑ̃**f**ɛ̃",
+                "word": "enfin",
+                "description": "finally",
+                "sound": "89f492b96cc58b3f0c5333b1aadbee40",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/89f492b96cc58b3f0c5333b1aadbee40.mp3",
+                "sound2": "5cd56a1bf4269576dc6df73fbe9cdc0c",
+                "sound2_url": "https://easypronunciation.com/audio/french/5cd56a1bf4269576dc6df73fbe9cdc0c.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "nœ**f**",
+                "word": "neuf",
+                "description": "nine",
+                "sound": "c84e77c425887d32e19613e1a15f1eeb",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/c84e77c425887d32e19613e1a15f1eeb.mp3",
+                "sound2": "d103520945ee3696da6da164375b1a3a",
+                "sound2_url": "https://easypronunciation.com/audio/french/d103520945ee3696da6da164375b1a3a.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 4,
@@ -51,7 +137,43 @@
         "symbol": "k",
         "sound": "voiceless_velar_plosive",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Voiceless_velar_plosive.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 4,
+        "examples": [
+            {
+                "ipa": "**k**ə",
+                "word": "que",
+                "description": "that",
+                "sound": "e0647df6269e4d1ed3573cc6e23c1395",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/e0647df6269e4d1ed3573cc6e23c1395.mp3",
+                "sound2": "bbd0c6f63df1761b5c6bcc0abbb8ee38",
+                "sound2_url": "https://easypronunciation.com/audio/french/bbd0c6f63df1761b5c6bcc0abbb8ee38.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "lə**k**ɛl",
+                "word": "lequel",
+                "description": "which",
+                "sound": "da1fad81d1988a05ede97110e9b78e6e",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/da1fad81d1988a05ede97110e9b78e6e.mp3",
+                "sound2": "204b4e7ad33805ac79d92e6b3d74054d",
+                "sound2_url": "https://easypronunciation.com/audio/french/204b4e7ad33805ac79d92e6b3d74054d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ʃa**k**",
+                "word": "chaque",
+                "description": "each",
+                "sound": "57252b36478438a55163f3d26401ffef",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/57252b36478438a55163f3d26401ffef.mp3",
+                "sound2": "5f28f014c2cf1be8c0764249f28f28f3",
+                "sound2_url": "https://easypronunciation.com/audio/french/5f28f014c2cf1be8c0764249f28f28f3.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 5,
@@ -59,7 +181,43 @@
         "symbol": "l",
         "sound": "alveolar_lateral_approximant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Alveolar_lateral_approximant.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 5,
+        "examples": [
+            {
+                "ipa": "**l**ə",
+                "word": "le",
+                "description": "the",
+                "sound": "88c822555182b34d35b7f63024d8cc91",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/88c822555182b34d35b7f63024d8cc91.mp3",
+                "sound2": "c4c76135f9b69f5e57fd187a086d8739",
+                "sound2_url": "https://easypronunciation.com/audio/french/c4c76135f9b69f5e57fd187a086d8739.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "sə**l**ɥi",
+                "word": "celui",
+                "description": "that",
+                "sound": "37298765ba39fb53245fd018eb52c835",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/37298765ba39fb53245fd018eb52c835.mp3",
+                "sound2": "0a9583410800092c94208d93a6aa64be",
+                "sound2_url": "https://easypronunciation.com/audio/french/0a9583410800092c94208d93a6aa64be.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "i**l**",
+                "word": "il",
+                "description": "il",
+                "sound": "1cab43007bcd9414f86913a00f81be89",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/1cab43007bcd9414f86913a00f81be89.mp3",
+                "sound2": "f00318eee54a45b4e758467d495de4fb",
+                "sound2_url": "https://easypronunciation.com/audio/french/f00318eee54a45b4e758467d495de4fb.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 6,
@@ -67,7 +225,43 @@
         "symbol": "m",
         "sound": "bilabial_nasal",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bilabial_nasal.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 6,
+        "examples": [
+            {
+                "ipa": "**m**ɛm",
+                "word": "même",
+                "description": "even",
+                "sound": "6537b1108d2f80bd2164c36270d5efc7",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6537b1108d2f80bd2164c36270d5efc7.mp3",
+                "sound2": "bf2c1e50209aa968a4a8ad4550473756",
+                "sound2_url": "https://easypronunciation.com/audio/french/bf2c1e50209aa968a4a8ad4550473756.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "fa**m**ij",
+                "word": "famille",
+                "description": "family",
+                "sound": "64d066e8071ad32975af3edb04aa1b57",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/64d066e8071ad32975af3edb04aa1b57.mp3",
+                "sound2": "03f99814d3bde4fcb851b908f9f98c68",
+                "sound2_url": "https://easypronunciation.com/audio/french/03f99814d3bde4fcb851b908f9f98c68.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "sistɛ**m**",
+                "word": "système",
+                "description": "system",
+                "sound": "6c17985715c388e889e6fb5420546d9f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6c17985715c388e889e6fb5420546d9f.mp3",
+                "sound2": "a7dfba0a76e497a5270034ab05228c70",
+                "sound2_url": "https://easypronunciation.com/audio/french/a7dfba0a76e497a5270034ab05228c70.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 7,
@@ -75,7 +269,43 @@
         "symbol": "n",
         "sound": "alveolar_nasal",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Alveolar_nasal.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 7,
+        "examples": [
+            {
+                "ipa": "**n**u",
+                "word": "nous",
+                "description": "We",
+                "sound": "48c0537859835821f1ae08ecd1a0bd58",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/48c0537859835821f1ae08ecd1a0bd58.mp3",
+                "sound2": "f0c9b3ed0c673e5750bfb3892b52bcfd",
+                "sound2_url": "https://easypronunciation.com/audio/french/f0c9b3ed0c673e5750bfb3892b52bcfd.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "dɔ**n**e",
+                "word": "donner",
+                "description": "give",
+                "sound": "6bf96375c013872e8f6a29e10b1dc051",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6bf96375c013872e8f6a29e10b1dc051.mp3",
+                "sound2": "d8bdb6ca85ea6b2d9e9af27a1a758523",
+                "sound2_url": "https://easypronunciation.com/audio/french/d8bdb6ca85ea6b2d9e9af27a1a758523.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "y**n**",
+                "word": "une",
+                "description": "a",
+                "sound": "e3e71375804fb79ed8bc98a46c93fe33",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/e3e71375804fb79ed8bc98a46c93fe33.mp3",
+                "sound2": "e621816ca544d4a34c4718cbf0fbd2c8",
+                "sound2_url": "https://easypronunciation.com/audio/french/e621816ca544d4a34c4718cbf0fbd2c8.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 8,
@@ -83,7 +313,43 @@
         "symbol": "p",
         "sound": "voiceless_bilabial_plosive",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Voiceless_bilabial_plosive.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 8,
+        "examples": [
+            {
+                "ipa": "**p**ø",
+                "word": "peu",
+                "description": "peu",
+                "sound": "c24b2e124b6bb24e53761f9c70e2086e",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/c24b2e124b6bb24e53761f9c70e2086e.mp3",
+                "sound2": "d0021d63316ece5857423693abecea3d",
+                "sound2_url": "https://easypronunciation.com/audio/french/d0021d63316ece5857423693abecea3d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "e**p**ɔk",
+                "word": "époque",
+                "description": "era",
+                "sound": "d032d7a3f23619a1d6176cb08e8eba41",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d032d7a3f23619a1d6176cb08e8eba41.mp3",
+                "sound2": "1e96fa48e257e71f42e0e64845f16cbb",
+                "sound2_url": "https://easypronunciation.com/audio/french/1e96fa48e257e71f42e0e64845f16cbb.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ti**p**",
+                "word": "type",
+                "description": "kind",
+                "sound": "a414f782fe267b69dc72cb8ef712bfe4",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/a414f782fe267b69dc72cb8ef712bfe4.mp3",
+                "sound2": "e65a9c12543cc02194dfed2141cd20a5",
+                "sound2_url": "https://easypronunciation.com/audio/french/e65a9c12543cc02194dfed2141cd20a5.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 9,
@@ -91,7 +357,43 @@
         "symbol": "s",
         "sound": "voiceless_alveolar_sibilant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Voiceless_alveolar_sibilant.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 9,
+        "examples": [
+            {
+                "ipa": "**s**i",
+                "word": "si",
+                "description": "whether",
+                "sound": "e9c4b3feac396414a86d822667665c71",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/e9c4b3feac396414a86d822667665c71.mp3",
+                "sound2": "fb57dd9ccd99dba2e1bb304ed3acbb09",
+                "sound2_url": "https://easypronunciation.com/audio/french/fb57dd9ccd99dba2e1bb304ed3acbb09.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "o**s**i",
+                "word": "aussi",
+                "description": "Also",
+                "sound": "28ee20ce5b73231696023c6f52bd1de9",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/28ee20ce5b73231696023c6f52bd1de9.mp3",
+                "sound2": "ed70816af3c4c867809993ef6f41a6c6",
+                "sound2_url": "https://easypronunciation.com/audio/french/ed70816af3c4c867809993ef6f41a6c6.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "pla**s**",
+                "word": "place",
+                "description": "place",
+                "sound": "d7f8df5d5e0505d3b22ec0053fb636a4",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d7f8df5d5e0505d3b22ec0053fb636a4.mp3",
+                "sound2": "74aaffe156ffb921fbc7ca5d82a524e7",
+                "sound2_url": "https://easypronunciation.com/audio/french/74aaffe156ffb921fbc7ca5d82a524e7.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 10,
@@ -99,7 +401,43 @@
         "symbol": "t",
         "sound": "voiceless_alveolar_plosive",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Voiceless_alveolar_plosive.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 10,
+        "examples": [
+            {
+                "ipa": "**t**ɑ̃",
+                "word": "temps",
+                "description": "time",
+                "sound": "ca087b8e57e43c1c1dbd5907f7005136",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ca087b8e57e43c1c1dbd5907f7005136.mp3",
+                "sound2": "86d4a3fbdfbf057fc57c881a82d7ff12",
+                "sound2_url": "https://easypronunciation.com/audio/french/86d4a3fbdfbf057fc57c881a82d7ff12.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "e**t**ɛ",
+                "word": "était",
+                "description": "was",
+                "sound": "fd6f3bead890578daeb7714f68a5fc7d",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/fd6f3bead890578daeb7714f68a5fc7d.mp3",
+                "sound2": "3b860d131694719b859d515bc25133b6",
+                "sound2_url": "https://easypronunciation.com/audio/french/3b860d131694719b859d515bc25133b6.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "tu**t**",
+                "word": "toute",
+                "description": "all",
+                "sound": "2de296873ed3dfce9fa0f6992c0691cb",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/2de296873ed3dfce9fa0f6992c0691cb.mp3",
+                "sound2": "09cedd2c97f3af43da08cd73019352f7",
+                "sound2_url": "https://easypronunciation.com/audio/french/09cedd2c97f3af43da08cd73019352f7.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 11,
@@ -107,7 +445,43 @@
         "symbol": "v",
         "sound": "voiced_labio-dental_fricative",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Voiced_labio-dental_fricative.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 11,
+        "examples": [
+            {
+                "ipa": "**v**u",
+                "word": "vous",
+                "description": "you",
+                "sound": "bf6369590ecb3ee0ee718fb94755a2e5",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/bf6369590ecb3ee0ee718fb94755a2e5.mp3",
+                "sound2": "bf6c4de15cbe0ab98bbcaa3df25587db",
+                "sound2_url": "https://easypronunciation.com/audio/french/bf6c4de15cbe0ab98bbcaa3df25587db.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "a**v**ɛk",
+                "word": "avec",
+                "description": "with",
+                "sound": "965c4203022d5afda222c2f3c21100b0",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/965c4203022d5afda222c2f3c21100b0.mp3",
+                "sound2": "62436de235c592674e372439d556c500",
+                "sound2_url": "https://easypronunciation.com/audio/french/62436de235c592674e372439d556c500.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "aʁi**v**",
+                "word": "arrive",
+                "description": "arrived",
+                "sound": "50f3e13dcd47594ac063ba1cfe9f0f09",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/50f3e13dcd47594ac063ba1cfe9f0f09.mp3",
+                "sound2": "10ae4258a7a08b1b011f953cfaa155d2",
+                "sound2_url": "https://easypronunciation.com/audio/french/10ae4258a7a08b1b011f953cfaa155d2.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 12,
@@ -115,7 +489,43 @@
         "symbol": "z",
         "sound": "voiced_alveolar_sibilant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Voiced_alveolar_sibilant.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 12,
+        "examples": [
+            {
+                "ipa": "**z**on",
+                "word": "zone",
+                "description": "area",
+                "sound": "697d908b60d65e00b0b7bf41fd03fb3f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/697d908b60d65e00b0b7bf41fd03fb3f.mp3",
+                "sound2": "3ee60aa213f045d19052a1d163a50f01",
+                "sound2_url": "https://easypronunciation.com/audio/french/3ee60aa213f045d19052a1d163a50f01.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "mɛ**z**ɔ̃",
+                "word": "maison",
+                "description": "House",
+                "sound": "6f9317e197fa9ce9801031d3fcfed593",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6f9317e197fa9ce9801031d3fcfed593.mp3",
+                "sound2": "af23e9138f8b9ba48c5e93fdf7ea3cb9",
+                "sound2_url": "https://easypronunciation.com/audio/french/af23e9138f8b9ba48c5e93fdf7ea3cb9.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "kɛ̃**z**",
+                "word": "quinze",
+                "description": "fifteen",
+                "sound": "f2405778bda041152c5580d3d91cc865",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/f2405778bda041152c5580d3d91cc865.mp3",
+                "sound2": "4d8ba330fa24968a13d4809d73db6429",
+                "sound2_url": "https://easypronunciation.com/audio/french/4d8ba330fa24968a13d4809d73db6429.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 14,
@@ -123,7 +533,32 @@
         "symbol": "ɲ",
         "sound": "palatal_nasal",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Palatal_nasal.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 14,
+        "examples": [
+            {
+                "ipa": "ɡa**ɲ**e",
+                "word": "gagner",
+                "description": "earn",
+                "sound": "8a653b7e18a4efa55990400c64700996",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/8a653b7e18a4efa55990400c64700996.mp3",
+                "sound2": "c9949776ed67a3b72bee8961a02bb5da",
+                "sound2_url": "https://easypronunciation.com/audio/french/c9949776ed67a3b72bee8961a02bb5da.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "li**ɲ**",
+                "word": "ligne",
+                "description": "line",
+                "sound": "4e111975d98f00d769fe363e02c5a173",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/4e111975d98f00d769fe363e02c5a173.mp3",
+                "sound2": "6788c9eb82219e092a943ad92d6f588b",
+                "sound2_url": "https://easypronunciation.com/audio/french/6788c9eb82219e092a943ad92d6f588b.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 15,
@@ -131,7 +566,43 @@
         "symbol": "ʁ",
         "sound": "voiced_uvular_fricative",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Voiced_uvular_fricative.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 15,
+        "examples": [
+            {
+                "ipa": "**ʁ**ɛzɔ̃",
+                "word": "raison",
+                "description": "raison",
+                "sound": "3792a3f4fbd6fa478811941d404c3c6f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/3792a3f4fbd6fa478811941d404c3c6f.mp3",
+                "sound2": "d26f63d4819509709aaa00c2998dbda9",
+                "sound2_url": "https://easypronunciation.com/audio/french/d26f63d4819509709aaa00c2998dbda9.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "sə**ʁ**a",
+                "word": "sera",
+                "description": "will be",
+                "sound": "42f1cc115a2a5278fa4ffc2858195668",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/42f1cc115a2a5278fa4ffc2858195668.mp3",
+                "sound2": "69f0b8a666f8c210137c59414e02182e",
+                "sound2_url": "https://easypronunciation.com/audio/french/69f0b8a666f8c210137c59414e02182e.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ʒu**ʁ**",
+                "word": "jour",
+                "description": "day",
+                "sound": "744bd194c6227ff8374ecae78bf0a742",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/744bd194c6227ff8374ecae78bf0a742.mp3",
+                "sound2": "770667d245430b2417296c597f60082e",
+                "sound2_url": "https://easypronunciation.com/audio/french/770667d245430b2417296c597f60082e.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 16,
@@ -139,7 +610,43 @@
         "symbol": "ʃ",
         "sound": "voiceless_palato-alveolar_sibilant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Voiceless_palato-alveolar_sibilant.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 16,
+        "examples": [
+            {
+                "ipa": "**ʃ**ɛf",
+                "word": "chef",
+                "description": "chief",
+                "sound": "ba4286fdabc4168bc26a80ad6abe2984",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ba4286fdabc4168bc26a80ad6abe2984.mp3",
+                "sound2": "f18f07f973fc0fa82908ae8f190801d6",
+                "sound2_url": "https://easypronunciation.com/audio/french/f18f07f973fc0fa82908ae8f190801d6.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "e**ʃ**ape",
+                "word": "échapper",
+                "description": "escape",
+                "sound": "d4d35031f06ec29346a4ad5922b18816",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d4d35031f06ec29346a4ad5922b18816.mp3",
+                "sound2": "a4922a6d3a51b6028deb3268c3a9a274",
+                "sound2_url": "https://easypronunciation.com/audio/french/a4922a6d3a51b6028deb3268c3a9a274.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ʁi**ʃ**",
+                "word": "riche",
+                "description": "rich",
+                "sound": "e4957d9bd49af8dd6ddd786c76feb9b0",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/e4957d9bd49af8dd6ddd786c76feb9b0.mp3",
+                "sound2": "b932cd98deca51f85f4ba14918ec92d3",
+                "sound2_url": "https://easypronunciation.com/audio/french/b932cd98deca51f85f4ba14918ec92d3.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 17,
@@ -147,7 +654,43 @@
         "symbol": "ʒ",
         "sound": "voiced_palato-alveolar_sibilant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Voiced_palato-alveolar_sibilant.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 17,
+        "examples": [
+            {
+                "ipa": "**ʒ**amɛ",
+                "word": "jamais",
+                "description": "Never",
+                "sound": "193ce5e47d1160c45223c5df44ec128b",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/193ce5e47d1160c45223c5df44ec128b.mp3",
+                "sound2": "42b05680edba608be1d88b5a4dcf409d",
+                "sound2_url": "https://easypronunciation.com/audio/french/42b05680edba608be1d88b5a4dcf409d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "de**ʒ**a",
+                "word": "déjà",
+                "description": "Already",
+                "sound": "784f16fbd52422ef21383174fe9d5943",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/784f16fbd52422ef21383174fe9d5943.mp3",
+                "sound2": "1b86a4d4ce56a0d8e0fe7fcdfb6025cc",
+                "sound2_url": "https://easypronunciation.com/audio/french/1b86a4d4ce56a0d8e0fe7fcdfb6025cc.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ʁu**ʒ**",
+                "word": "rouge",
+                "description": "red",
+                "sound": "5f182061e4dde1aefb07c9bcf1e141a5",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/5f182061e4dde1aefb07c9bcf1e141a5.mp3",
+                "sound2": "0276fe19bb426bf606c52dfa9d8450d0",
+                "sound2_url": "https://easypronunciation.com/audio/french/0276fe19bb426bf606c52dfa9d8450d0.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 18,
@@ -155,7 +698,43 @@
         "symbol": "dʒ",
         "sound": "voiced_palato-alveolar_affricate",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Voiced_palato-alveolar_affricate.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 18,
+        "examples": [
+            {
+                "ipa": "**dʒ**ibuti",
+                "word": "Djibouti",
+                "description": "Djibouti",
+                "sound": "25e8c704dda0e4e79c98a98e626e3d21",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/25e8c704dda0e4e79c98a98e626e3d21.mp3",
+                "sound2": "0dad95a19c04e2088bf1d0d798a8b92b",
+                "sound2_url": "https://easypronunciation.com/audio/french/0dad95a19c04e2088bf1d0d798a8b92b.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "by**dʒ**ɛ",
+                "word": "budget",
+                "description": "budget",
+                "sound": "431cfeb6e5e4814b099c07d5ad5ffc60",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/431cfeb6e5e4814b099c07d5ad5ffc60.mp3",
+                "sound2": "411cf42a6ec1ef933a93c97d363b8047",
+                "sound2_url": "https://easypronunciation.com/audio/french/411cf42a6ec1ef933a93c97d363b8047.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "kɑ̃bɔ**dʒ**",
+                "word": "Cambodge",
+                "description": "Cambodia",
+                "sound": "cab67c0409ed9242a7e2b72435412fc5",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/cab67c0409ed9242a7e2b72435412fc5.mp3",
+                "sound2": "d56f5981d60cb171570854f439e0dc40",
+                "sound2_url": "https://easypronunciation.com/audio/french/d56f5981d60cb171570854f439e0dc40.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 19,
@@ -163,7 +742,43 @@
         "symbol": "tʃ",
         "sound": "voiceless_palato-alveolar_affricate",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Voiceless_palato-alveolar_affricate.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 19,
+        "examples": [
+            {
+                "ipa": "**tʃ**ɛk",
+                "word": "tchèque",
+                "description": "Czech",
+                "sound": "cb81697586a22881d49f0095c794d1fe",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/cb81697586a22881d49f0095c794d1fe.mp3",
+                "sound2": "0fb767a271e1c9fc1034a954cd52b115",
+                "sound2_url": "https://easypronunciation.com/audio/french/0fb767a271e1c9fc1034a954cd52b115.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "kau**tʃ**u",
+                "word": "caoutchouc",
+                "description": "rubber",
+                "sound": "6e9d5313b1b1ca9ea725e1f943605126",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6e9d5313b1b1ca9ea725e1f943605126.mp3",
+                "sound2": "d93fa4d0ed4552fe2387b9d8532d53c5",
+                "sound2_url": "https://easypronunciation.com/audio/french/d93fa4d0ed4552fe2387b9d8532d53c5.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ma**tʃ**",
+                "word": "match",
+                "description": "match",
+                "sound": "c56e0c7a3701d272e09930b0a632a3e4",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/c56e0c7a3701d272e09930b0a632a3e4.mp3",
+                "sound2": "fcab4cb8825858522b8676c326ba08dd",
+                "sound2_url": "https://easypronunciation.com/audio/french/fcab4cb8825858522b8676c326ba08dd.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 20,
@@ -171,7 +786,21 @@
         "symbol": "ŋ",
         "sound": "velar_nasal",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Velar_nasal.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 20,
+        "examples": [
+            {
+                "ipa": "miti**ŋ**",
+                "word": "meeting",
+                "description": "meeting",
+                "sound": "f762ee45c298686b451ebf926c24441f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/f762ee45c298686b451ebf926c24441f.mp3",
+                "sound2": "424aa72936f50482a1414c2f1c14722b",
+                "sound2_url": "https://easypronunciation.com/audio/french/424aa72936f50482a1414c2f1c14722b.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 21,
@@ -179,7 +808,43 @@
         "symbol": "j",
         "sound": "palatal_approximant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Palatal_approximant.ogg",
-        "examples": []
+        "type": "semivowel",
+        "order": 1,
+        "examples": [
+            {
+                "ipa": "**j**eʁaʁʃi",
+                "word": "hiérarchie",
+                "description": "hierarchy",
+                "sound": "384710932872458a96343da57c7d46e9",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/384710932872458a96343da57c7d46e9.mp3",
+                "sound2": "071805d182c29efd9317d784ac5ff577",
+                "sound2_url": "https://easypronunciation.com/audio/french/071805d182c29efd9317d784ac5ff577.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "d**j**ø",
+                "word": "Dieu",
+                "description": "God",
+                "sound": "262832a249d1f9a66720bbd669336d20",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/262832a249d1f9a66720bbd669336d20.mp3",
+                "sound2": "4f5c58ce65ee5e18e046d53a858fd792",
+                "sound2_url": "https://easypronunciation.com/audio/french/4f5c58ce65ee5e18e046d53a858fd792.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "fi**j**",
+                "word": "fille",
+                "description": "daughter",
+                "sound": "149d6f1f21b74c9ad41cb70d6f31cfad",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/149d6f1f21b74c9ad41cb70d6f31cfad.mp3",
+                "sound2": "0a2418a6a9ffe249bb2533d699827085",
+                "sound2_url": "https://easypronunciation.com/audio/french/0a2418a6a9ffe249bb2533d699827085.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 22,
@@ -187,7 +852,32 @@
         "symbol": "w",
         "sound": "voiced_labio-velar_approximant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Voiced_labio-velar_approximant.ogg",
-        "examples": []
+        "type": "semivowel",
+        "order": 2,
+        "examples": [
+            {
+                "ipa": "**w**i",
+                "word": "oui",
+                "description": "Yes",
+                "sound": "592388cb101fffc9230bf6d6babdbc52",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/592388cb101fffc9230bf6d6babdbc52.mp3",
+                "sound2": "5f07e0d572c672e3217130600d023348",
+                "sound2_url": "https://easypronunciation.com/audio/french/5f07e0d572c672e3217130600d023348.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "l**w**a",
+                "word": "loi",
+                "description": "law",
+                "sound": "6162f8a7598eca6ac5db1bcf97ea4393",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6162f8a7598eca6ac5db1bcf97ea4393.mp3",
+                "sound2": "bac7754c68585500cf55effbda652821",
+                "sound2_url": "https://easypronunciation.com/audio/french/bac7754c68585500cf55effbda652821.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 23,
@@ -195,7 +885,32 @@
         "symbol": "ɥ",
         "sound": "voiced_labial–palatal_approximant",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/LL-Q150_%28fra%29-WikiLucas00-IPA_%C9%A5.wav",
-        "examples": []
+        "type": "semivowel",
+        "order": 3,
+        "examples": [
+            {
+                "ipa": "**ɥ**itjɛm",
+                "word": "huitième",
+                "description": "eighth",
+                "sound": "31b93f2c5df3c19bb5d6ac96fa6a70db",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/31b93f2c5df3c19bb5d6ac96fa6a70db.mp3",
+                "sound2": "63c16919e1c62b211e7a708e485d9a0d",
+                "sound2_url": "https://easypronunciation.com/audio/french/63c16919e1c62b211e7a708e485d9a0d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "l**ɥ**i",
+                "word": "lui",
+                "description": "him",
+                "sound": "d01b3cca3d19df9d5e82e061c1ade3df",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d01b3cca3d19df9d5e82e061c1ade3df.mp3",
+                "sound2": "d01a240aeeb7adec32504146c486cf72",
+                "sound2_url": "https://easypronunciation.com/audio/french/d01a240aeeb7adec32504146c486cf72.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 24,
@@ -203,7 +918,43 @@
         "symbol": "a",
         "sound": "pr_open_front_unrounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/PR-open_front_unrounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 1,
+        "examples": [
+            {
+                "ipa": "**a**ne",
+                "word": "année",
+                "description": "year",
+                "sound": "677ceb65ce903673e9978dba7775bf1f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/677ceb65ce903673e9978dba7775bf1f.mp3",
+                "sound2": "e89be33283618e80a20142d3b86eb2af",
+                "sound2_url": "https://easypronunciation.com/audio/french/e89be33283618e80a20142d3b86eb2af.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "tʁ**a**v**a**j",
+                "word": "travail",
+                "description": "work",
+                "sound": "17a62d30192373f7ed2836aa0cf96d36",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/17a62d30192373f7ed2836aa0cf96d36.mp3",
+                "sound2": "bad11e4e44ffd3c9d5aa29297942ca6a",
+                "sound2_url": "https://easypronunciation.com/audio/french/bad11e4e44ffd3c9d5aa29297942ca6a.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "mw**a**",
+                "word": "moi",
+                "description": "Me",
+                "sound": "9284b86cd33417a1481042d403941da2",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/9284b86cd33417a1481042d403941da2.mp3",
+                "sound2": "7b8a110a26c8d5cb6bdf0da6465153f8",
+                "sound2_url": "https://easypronunciation.com/audio/french/7b8a110a26c8d5cb6bdf0da6465153f8.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 25,
@@ -211,7 +962,43 @@
         "symbol": "e",
         "sound": "close-mid_front_unrounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Close-mid_front_unrounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 2,
+        "examples": [
+            {
+                "ipa": "**e**te",
+                "word": "été",
+                "description": "summer",
+                "sound": "45a6e304f38f8fadd1961d990731ba43",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/45a6e304f38f8fadd1961d990731ba43.mp3",
+                "sound2": "8f57d22ea8f3c00d347870f6bfb3f835",
+                "sound2_url": "https://easypronunciation.com/audio/french/8f57d22ea8f3c00d347870f6bfb3f835.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ʒen**e**ʁal",
+                "word": "général",
+                "description": "general",
+                "sound": "34e8f1517bab51b9d0afd15f5590e1db",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/34e8f1517bab51b9d0afd15f5590e1db.mp3",
+                "sound2": "850dd7a130f42e26eb43ce1a54c54898",
+                "sound2_url": "https://easypronunciation.com/audio/french/850dd7a130f42e26eb43ce1a54c54898.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "veʁit**e**",
+                "word": "vérité",
+                "description": "truth",
+                "sound": "d5fb9369eddb125f2b1f31860eb423a2",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d5fb9369eddb125f2b1f31860eb423a2.mp3",
+                "sound2": "ba9cd3daca08c27cf1fbe783503100b4",
+                "sound2_url": "https://easypronunciation.com/audio/french/ba9cd3daca08c27cf1fbe783503100b4.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 26,
@@ -219,7 +1006,43 @@
         "symbol": "i",
         "sound": "close_front_unrounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/Close_front_unrounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 3,
+        "examples": [
+            {
+                "ipa": "**i**si",
+                "word": "ici",
+                "description": "here",
+                "sound": "6904bd05c77905b4a9a3e7fd464b8136",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6904bd05c77905b4a9a3e7fd464b8136.mp3",
+                "sound2": "765da22b402c82ba0d83343f4a4494ea",
+                "sound2_url": "https://easypronunciation.com/audio/french/765da22b402c82ba0d83343f4a4494ea.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "v**i**lle",
+                "word": "ville",
+                "description": "city",
+                "sound": "f97c0eaac1b2a3935f731dbccf78ed76",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/f97c0eaac1b2a3935f731dbccf78ed76.mp3",
+                "sound2": "c6526c3b84882cdcc65b1354d5ecdc37",
+                "sound2_url": "https://easypronunciation.com/audio/french/c6526c3b84882cdcc65b1354d5ecdc37.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "k**i**",
+                "word": "qui",
+                "description": "Who",
+                "sound": "066c471f6dc110ca57beec56226c7acf",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/066c471f6dc110ca57beec56226c7acf.mp3",
+                "sound2": "3c5be38c809b2605aa4a6fd8846af55c",
+                "sound2_url": "https://easypronunciation.com/audio/french/3c5be38c809b2605aa4a6fd8846af55c.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 27,
@@ -227,7 +1050,43 @@
         "symbol": "o",
         "sound": "close-mid_back_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/Close-mid_back_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 4,
+        "examples": [
+            {
+                "ipa": "**o**kyn",
+                "word": "aucune",
+                "description": "none",
+                "sound": "a09639353e3d594b34ddcb99019b6f5e",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/a09639353e3d594b34ddcb99019b6f5e.mp3",
+                "sound2": "ee06da29d60f1a67498737f738e16376",
+                "sound2_url": "https://easypronunciation.com/audio/french/ee06da29d60f1a67498737f738e16376.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "k**o**te",
+                "word": "côté",
+                "description": "coast",
+                "sound": "fbd3f7f341a9568b0cd7fa4128beba33",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/fbd3f7f341a9568b0cd7fa4128beba33.mp3",
+                "sound2": "2a02586023b6f7d823bb2418e5deb5cf",
+                "sound2_url": "https://easypronunciation.com/audio/french/2a02586023b6f7d823bb2418e5deb5cf.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "nuv**o**",
+                "word": "nouveau",
+                "description": "new",
+                "sound": "ffdc3950ece833957c9a206971a07630",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ffdc3950ece833957c9a206971a07630.mp3",
+                "sound2": "4f8697f6bb3002a6881ed8e22c42b5af",
+                "sound2_url": "https://easypronunciation.com/audio/french/4f8697f6bb3002a6881ed8e22c42b5af.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 28,
@@ -235,7 +1094,43 @@
         "symbol": "u",
         "sound": "close_back_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Close_back_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 5,
+        "examples": [
+            {
+                "ipa": "**u**vɛʁt",
+                "word": "ouverte",
+                "description": "opened",
+                "sound": "e32b1962bf2724bba10f23c0515f9a4c",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/e32b1962bf2724bba10f23c0515f9a4c.mp3",
+                "sound2": "e62683d2cf4dc4accc5438d5658de248",
+                "sound2_url": "https://easypronunciation.com/audio/french/e62683d2cf4dc4accc5438d5658de248.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "s**u**vɑ̃",
+                "word": "souvent",
+                "description": "often",
+                "sound": "19acfbb6faf968934bef8a884f24d203",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/19acfbb6faf968934bef8a884f24d203.mp3",
+                "sound2": "de87e3deae608bfedb70acbe0d8cdd1c",
+                "sound2_url": "https://easypronunciation.com/audio/french/de87e3deae608bfedb70acbe0d8cdd1c.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "k**u**",
+                "word": "coup",
+                "description": "cut",
+                "sound": "a57f7f4004a66854bec35521c0240e0b",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/a57f7f4004a66854bec35521c0240e0b.mp3",
+                "sound2": "981caf8e1e437d692be00b26bec98405",
+                "sound2_url": "https://easypronunciation.com/audio/french/981caf8e1e437d692be00b26bec98405.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 29,
@@ -243,7 +1138,43 @@
         "symbol": "y",
         "sound": "close_front_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 6,
+        "examples": [
+            {
+                "ipa": "**y**nik",
+                "word": "unique",
+                "description": "unique",
+                "sound": "3ef51c120ad0336fd021f418aaad3a2e",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/3ef51c120ad0336fd021f418aaad3a2e.mp3",
+                "sound2": "aa64df8de24f5f516c427bf63b5ed19f",
+                "sound2_url": "https://easypronunciation.com/audio/french/aa64df8de24f5f516c427bf63b5ed19f.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "et**y**d",
+                "word": "étude",
+                "description": "study",
+                "sound": "45775832355f1f92df250c011f403940",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/45775832355f1f92df250c011f403940.mp3",
+                "sound2": "f9d0dd845175b61a2b46b556ca9d4088",
+                "sound2_url": "https://easypronunciation.com/audio/french/f9d0dd845175b61a2b46b556ca9d4088.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "p**y**",
+                "word": "pu",
+                "description": "could",
+                "sound": "082ae590b8f69e9282d5da0e9f3d81b2",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/082ae590b8f69e9282d5da0e9f3d81b2.mp3",
+                "sound2": "4cf681792425dfe0a0894c76a6cc1921",
+                "sound2_url": "https://easypronunciation.com/audio/french/4cf681792425dfe0a0894c76a6cc1921.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 30,
@@ -251,7 +1182,43 @@
         "symbol": "ø",
         "sound": "close-mid_front_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 7,
+        "examples": [
+            {
+                "ipa": "**ø**ʁɔp",
+                "word": "Europe",
+                "description": "Europe",
+                "sound": "222da96a8bc8d200caaaa2cd2ccd8f9d",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/222da96a8bc8d200caaaa2cd2ccd8f9d.mp3",
+                "sound2": "667e94f8ccf58cd27eee788ba440961f",
+                "sound2_url": "https://easypronunciation.com/audio/french/667e94f8ccf58cd27eee788ba440961f.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "d**ø**zjɛm",
+                "word": "deuxième",
+                "description": "second",
+                "sound": "90a7377221e0eb132ca61e22e1da262d",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/90a7377221e0eb132ca61e22e1da262d.mp3",
+                "sound2": "94d2bef6c07fb51531455a9aab90f699",
+                "sound2_url": "https://easypronunciation.com/audio/french/94d2bef6c07fb51531455a9aab90f699.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "lj**ø**",
+                "word": "lieu",
+                "description": "place",
+                "sound": "ea173eaefaa0da0ed74c0ff9ad5799ba",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ea173eaefaa0da0ed74c0ff9ad5799ba.mp3",
+                "sound2": "ecc59878d81b7f0df707286dc604312d",
+                "sound2_url": "https://easypronunciation.com/audio/french/ecc59878d81b7f0df707286dc604312d.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 31,
@@ -259,7 +1226,32 @@
         "symbol": "œ",
         "sound": "open-mid_front_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Open-mid_front_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 8,
+        "examples": [
+            {
+                "ipa": "**œ**j",
+                "word": "œil",
+                "description": "eye",
+                "sound": "0ea5f9097d39fd1083c518ef96dd5c0f",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/0ea5f9097d39fd1083c518ef96dd5c0f.mp3",
+                "sound2": "d65828fdee7b2b10fa1322d4d1473c46",
+                "sound2_url": "https://easypronunciation.com/audio/french/d65828fdee7b2b10fa1322d4d1473c46.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "s**œ**l",
+                "word": "seul",
+                "description": "only",
+                "sound": "0aa68f654f76c415afe9a239a48fe462",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/0aa68f654f76c415afe9a239a48fe462.mp3",
+                "sound2": "eed4ea6a7886bed3dcdeed8792bf3726",
+                "sound2_url": "https://easypronunciation.com/audio/french/eed4ea6a7886bed3dcdeed8792bf3726.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 32,
@@ -267,7 +1259,32 @@
         "symbol": "ɔ",
         "sound": "pr-open-mid_back_rounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/PR-open-mid_back_rounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 9,
+        "examples": [
+            {
+                "ipa": "**ɔ**m",
+                "word": "homme",
+                "description": "male",
+                "sound": "2954ed8f551689b59c3855ed43f4a80a",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/2954ed8f551689b59c3855ed43f4a80a.mp3",
+                "sound2": "741f8f2d120d44d0d9fbc4542374cbc7",
+                "sound2_url": "https://easypronunciation.com/audio/french/741f8f2d120d44d0d9fbc4542374cbc7.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "k**ɔ**m",
+                "word": "comme",
+                "description": "as",
+                "sound": "90411c371deb638fc0f5b14b9958f30b",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/90411c371deb638fc0f5b14b9958f30b.mp3",
+                "sound2": "a9c4ec6ba8dc89369a52710ffe6d61fe",
+                "sound2_url": "https://easypronunciation.com/audio/french/a9c4ec6ba8dc89369a52710ffe6d61fe.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 33,
@@ -275,7 +1292,32 @@
         "symbol": "ə",
         "sound": "mid-central_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mid-central_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 10,
+        "examples": [
+            {
+                "ipa": "b**ə**zwɛ̃",
+                "word": "besoin",
+                "description": "need",
+                "sound": "34b69163fc0e0488f7e1c1a356d953b8",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/34b69163fc0e0488f7e1c1a356d953b8.mp3",
+                "sound2": "68e70d90d70db59d695a3f86c98ebc4a",
+                "sound2_url": "https://easypronunciation.com/audio/french/68e70d90d70db59d695a3f86c98ebc4a.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "n**ə**",
+                "word": "ne",
+                "description": "born",
+                "sound": "a35046caebbf9c886e655302d113aa37",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/a35046caebbf9c886e655302d113aa37.mp3",
+                "sound2": "0ae122e641494d234f80be2ea196c9f2",
+                "sound2_url": "https://easypronunciation.com/audio/french/0ae122e641494d234f80be2ea196c9f2.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 34,
@@ -283,31 +1325,175 @@
         "symbol": "ɛ",
         "sound": "open-mid_front_unrounded_vowel",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Open-mid_front_unrounded_vowel.ogg",
-        "examples": []
+        "type": "vowel",
+        "order": 11,
+        "examples": [
+            {
+                "ipa": "**ɛ**l",
+                "word": "elle",
+                "description": "She",
+                "sound": "ebd6c3db21adc544ba117065586d3687",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ebd6c3db21adc544ba117065586d3687.mp3",
+                "sound2": "b8fa3bb2abf233c6a7ece5219917fae6",
+                "sound2_url": "https://easypronunciation.com/audio/french/b8fa3bb2abf233c6a7ece5219917fae6.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "nuv**ɛ**l",
+                "word": "nouvelle",
+                "description": "new",
+                "sound": "3d7d7407ec2d90f1044440b228dd86c6",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/3d7d7407ec2d90f1044440b228dd86c6.mp3",
+                "sound2": "2b84ac7cb722d9a723b4e79e116c8679",
+                "sound2_url": "https://easypronunciation.com/audio/french/2b84ac7cb722d9a723b4e79e116c8679.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "syʒ**ɛ**",
+                "word": "sujet",
+                "description": "subject",
+                "sound": "791dba569c7f92b0890e59b3f4f73090",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/791dba569c7f92b0890e59b3f4f73090.mp3",
+                "sound2": "0dc2ff0785e10f4fbf7beada3b26a2bb",
+                "sound2_url": "https://easypronunciation.com/audio/french/0dc2ff0785e10f4fbf7beada3b26a2bb.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 35,
-        "name": "Nasal vowel",
+        "name": "Nasal vowel ɑ̃",
         "symbol": "ɑ̃",
-        "sound": "voiced_uvular_fricative",
-        "sound_source_url": null,
-        "examples": []
+        "sound": "nasal_vowel_a",
+        "sound_source_url": "https://github.com/rain1024/l2/releases/download/resources/nasal_vowel_a.mp3",
+        "type": "nasal_vowel",
+        "order": 1,
+        "examples": [
+            {
+                "ipa": "**ɑ̃**sɥit",
+                "word": "ensuite",
+                "description": "Next",
+                "sound": "d62f9d9d78f9b99585872ca47b1566d5",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d62f9d9d78f9b99585872ca47b1566d5.mp3",
+                "sound2": "f9ed8445f06a9b5629b65be3fbf509c2",
+                "sound2_url": "https://easypronunciation.com/audio/french/f9ed8445f06a9b5629b65be3fbf509c2.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "ɛɡz**ɑ̃**pl",
+                "word": "exemple",
+                "description": "example",
+                "sound": "48d9ce4972d7556e68c417b8c1001a63",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/48d9ce4972d7556e68c417b8c1001a63.mp3",
+                "sound2": "135e69bbfabcc9d6d0b385d06f554942",
+                "sound2_url": "https://easypronunciation.com/audio/french/135e69bbfabcc9d6d0b385d06f554942.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "sœlm**ɑ̃**",
+                "word": "seulement",
+                "description": "only",
+                "sound": "b6015037b1c7802558bbb8ee3bf509c6",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/b6015037b1c7802558bbb8ee3bf509c6.mp3",
+                "sound2": "1e2f40cee3e3c40732e4dad17c841bbd",
+                "sound2_url": "https://easypronunciation.com/audio/french/1e2f40cee3e3c40732e4dad17c841bbd.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 36,
-        "name": "Voiceless bilabial plosive",
+        "name": "Nasal vowel ɔ̃",
         "symbol": "ɔ̃",
-        "sound": "voiced_uvular_fricative",
-        "sound_source_url": null,
-        "examples": []
+        "sound": "nasal_vowel_ɔ",
+        "sound_source_url": "https://github.com/rain1024/l2/releases/download/resources/nasal_vowel_o.mp3",
+        "type": "nasal_vowel",
+        "order": 2,
+        "examples": [
+            {
+                "ipa": "**ɔ̃**kl",
+                "word": "oncle",
+                "description": "uncle",
+                "sound": "5c4dc54d4c79b5914ed78eb8fbe6e611",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/5c4dc54d4c79b5914ed78eb8fbe6e611.mp3",
+                "sound2": "d5bca9283c7ea163a9c5e029454ceea5",
+                "sound2_url": "https://easypronunciation.com/audio/french/d5bca9283c7ea163a9c5e029454ceea5.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "l**ɔ̃**tɑ̃",
+                "word": "longtemps",
+                "description": "a long time",
+                "sound": "6304fbb7e869b2bac2947337401e606b",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6304fbb7e869b2bac2947337401e606b.mp3",
+                "sound2": "dfba5c6be1a8d1eb1887d6eda0922b14",
+                "sound2_url": "https://easypronunciation.com/audio/french/dfba5c6be1a8d1eb1887d6eda0922b14.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "n**ɔ̃**",
+                "word": "nom",
+                "description": "name",
+                "sound": "d96be14d083396b0d8afb0aa76dc0c41",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/d96be14d083396b0d8afb0aa76dc0c41.mp3",
+                "sound2": "845cf729494ca53585c6c8c2aaa98762",
+                "sound2_url": "https://easypronunciation.com/audio/french/845cf729494ca53585c6c8c2aaa98762.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 37,
-        "name": "Voiceless bilabial plosive",
+        "name": "Nasal vowel ɛ̃",
         "symbol": "ɛ̃",
-        "sound": "voiced_uvular_fricative",
-        "sound_source_url": null,
-        "examples": []
+        "sound": "nasal_vowel_ɛ",
+        "sound_source_url": "https://github.com/rain1024/l2/releases/download/resources/nasal_vowel_e.mp3",
+        "type": "nasal_vowel",
+        "order": 3,
+        "examples": [
+            {
+                "ipa": "**ɛ̃**si",
+                "word": "ainsi",
+                "description": "Thus",
+                "sound": "c844b43402b634111837bdd32834bdb7",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/c844b43402b634111837bdd32834bdb7.mp3",
+                "sound2": "0f13a1f7ac821a092edf10250c85d0dd",
+                "sound2_url": "https://easypronunciation.com/audio/french/0f13a1f7ac821a092edf10250c85d0dd.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "pʁ**ɛ̃**sip",
+                "word": "principe",
+                "description": "principle",
+                "sound": "ae43f8f339cd94dd19cbadaed7d4a33e",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/ae43f8f339cd94dd19cbadaed7d4a33e.mp3",
+                "sound2": "50319e8e0f56c332194dab6b18de4c63",
+                "sound2_url": "https://easypronunciation.com/audio/french/50319e8e0f56c332194dab6b18de4c63.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "lw**ɛ̃**",
+                "word": "loin",
+                "description": "far",
+                "sound": "c3714176d72fa8ef8922dd058390546a",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/c3714176d72fa8ef8922dd058390546a.mp3",
+                "sound2": "0a1ab97794e45fd3f18e534c5c519070",
+                "sound2_url": "https://easypronunciation.com/audio/french/0a1ab97794e45fd3f18e534c5c519070.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     },
     {
         "id": 38,
@@ -315,6 +1501,42 @@
         "symbol": "g",
         "sound": "voiced_velar_plosive_02",
         "sound_source_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Voiced_velar_plosive_02.ogg",
-        "examples": []
+        "type": "consonant",
+        "order": 13,
+        "examples": [
+            {
+                "ipa": "**ɡ**oʃ",
+                "word": "gauche",
+                "description": "letft",
+                "sound": "6d44fca4730176330fe3eb038163e928",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/6d44fca4730176330fe3eb038163e928.mp3",
+                "sound2": "b1a153e4598933535f0274a86ea64f2f",
+                "sound2_url": "https://easypronunciation.com/audio/french/b1a153e4598933535f0274a86ea64f2f.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "e**ɡ**almɑ̃",
+                "word": "également",
+                "description": "also",
+                "sound": "daf7e16d504a2ba02b35404448cf3fce",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/daf7e16d504a2ba02b35404448cf3fce.mp3",
+                "sound2": "f21309b50c1d65d382941e122c82731f",
+                "sound2_url": "https://easypronunciation.com/audio/french/f21309b50c1d65d382941e122c82731f.mp3",
+                "sound3": null,
+                "sound3_url": null
+            },
+            {
+                "ipa": "va**ɡ**",
+                "word": "vague",
+                "description": "vague",
+                "sound": "94149bdaad12c0a9d6025d8d7ae795c5",
+                "sound_url": "https://easypronunciation.com/audio_hash/french/100/94149bdaad12c0a9d6025d8d7ae795c5.mp3",
+                "sound2": "44dff3ab75fbf9bb8cea64a7349fbb47",
+                "sound2_url": "https://easypronunciation.com/audio/french/44dff3ab75fbf9bb8cea64a7349fbb47.mp3",
+                "sound3": null,
+                "sound3_url": null
+            }
+        ]
     }
 ]

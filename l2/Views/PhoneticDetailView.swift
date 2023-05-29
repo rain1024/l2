@@ -71,21 +71,6 @@ struct PhoneticDetailView: View {
 
 struct PhoneticDetailView_Previews: PreviewProvider {
     static var previews: some View {
-        PhoneticDetailView(
-            phonetic: Phonetic(
-                name: "Voiced bilabial plosive",
-                symbol: "b",
-                sound: "voiced_bilabial_plosive",
-                examples: [
-                    PhoneticExample(
-                        ipa: "**b**oku",
-                        word: "beaucoup",
-                        description: "a lot",
-                        sound: "bd025d622d83f0c819df5075b3ac27dc",
-                        sound2: "3645e40296b049712fa0807274dce52b"
-                    )
-                ]
-            )
-        )
+        PhoneticDetailView(phonetic: SamplePhonetic)
     }
 }

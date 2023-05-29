@@ -14,6 +14,22 @@ var vocabs: [Vocab] = load("vocabs2.json")
 var languages: [Language] = load("languages.json")
 
 var phonetics: [Phonetic] = load("phonetics.json")
+let SamplePhonetic = Phonetic(
+    name: "Voiced bilabial plosive",
+    symbol: "b",
+    sound: "voiced_bilabial_plosive",
+    type: "consonant",
+    order: 1,
+    examples: [
+        PhoneticExample(
+            ipa: "**b**oku",
+            word: "beaucoup",
+            description: "a lot",
+            sound: "bd025d622d83f0c819df5075b3ac27dc",
+            sound2: "3645e40296b049712fa0807274dce52b"
+        )
+    ]
+)
 
 let languageNames = languages.map { $0.name }
 

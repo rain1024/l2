@@ -122,7 +122,7 @@ struct ViewVocab: View {
                 }.listRowInsets(EdgeInsets())
             }
             .navigationTitle($title)
-            
+            .navigationBarTitleDisplayMode(.inline)
         }.onAppear(){
             learnLanguage = UserDefaults.standard.getObject(for: "learnLanguage") ?? Vietnamese
             title = learnLanguage.flag + " Vocab"
